@@ -145,49 +145,92 @@ skills:
 
     toolset: 
       - name: Threat Hunting {E}
+        level: 80%
       - name: Incident Response (IR)
       - name: Forensics {E}
+        level: 80%
       - name: Penetration Testing {I}
+        level: 40%
       - name: Endpoint Security {E}
+        level: 80%
       - name: Role Based Access Control (RBAC) {E}
+        level: 80%
       - name: Active Defense {E}
+        level: 80%
       - name: Wazuh {E}
+        level: 80%
       - name: Sysmon {E}
+        level: 80%
       - name: AC Hunter {E}
+        level: 80%
       - name: Netdata {I}
+        level: 40%
       - name: Elastic Agent {I}
+        level: 40%
       - name: Nmap {E}
+        level: 80%
       - name: Wireshark {E}
+        level: 80%
       - name: ZAP {E}
+        level: 80%
       - name: Burpsuite {I}
+        level: 40%
       - name: Honeypots {E}
+        level: 80%
       - name: Canarytokens {E}
+        level: 80%
       - name: Static Analysis {I}
+        level: 40%
       - name: Dynamic Analysis {I}
+        level: 40%
       - name: Code Review {I}
+        level: 40%
       - name: Secure Code Practices {E}
+        level: 80%
       - name: OWASP Top 10 {E}
+        level: 80%
       - name: Trufflehog {E}
+        level: 80%
       - name: Dependabot {E}
+        level: 80%
       - name: Snyk {E}
+        level: 80%
       - name: Bash {E}
+        level: 80%
       - name: Python {I}
+        level: 40%
       - name: React {I}
+        level: 40%
       - name: JavaScript {I}
+        level: 40%
       - name: Go {I}
+        level: 40%
       - name: Rust {I}
+        level: 40%
       - name: PCI 4.0.1 {E}
+        level: 80%
       - name: CIS Controls 8.1 {E}
+        level: 80%
       - name: NIST 800-63 {E}
+        level: 80%
       - name: NIST 800-53 {I}
+        level: 40%
       - name: MITRE ATT&CK & Atomic Red Team {E}
+        level: 80%
       - name: ProxMox {E}
+        level: 80%
       - name: Nginx {I}
+        level: 40%
       - name: Docker {E}
+        level: 80%
       - name: Grafana {E}
+        level: 80%
       - name: Prometheus {E}
+        level: 80%
       - name: MSSQL, MySQL/MariaDB, SQLite3 {I}
+        level: 40%
       - name: Kubernetes (k8s) {I}
+        level: 40%
       - name: AWS
       - name: Google Cloud
       - name: Runpod
