@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Chris Xedis
+    tagline: Security Architect
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    email: chris@voidxedis.com
+    phone: 702 720 6067
+    timezone: America/Los Angeles # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: Full
+    website: https://xedis.net # Include the full website URL, including "http://" or "https://".
+    linkedin: xchrisx
+    xing: 
+    github: xedis
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: '@_xedis_'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -39,230 +39,176 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Piglatin
+          level: Hobby 
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Security
           link:
 
-        - item: Snowboarding
-          link:
+        - item: AI/ML Generative Capabilities
+          link: https://links.xedis.me
 
-        - item: Cooking
-          link:
+        - item: Family
+          link: 
+        
+        - item: Gaming (Warframe, etc)
+          link: https://steamcommunity.com/profiles/76561198379290620/   
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Chronically curious technology professional with 20+ years of experience specializing in enterprise security architecture, cloud infrastructure, and POS data integration and retention. 
+      Proven track record of implementing robust security solutions across large-scale production environments. 
+      Expert in AWS cloud security, risk management & compliance frameworks such as PCI and CIS Controls. 
+      Success in leading cross-functional teams and driving security initiatives in fast-paced environments. 
+      Seeking a Senior Cloud Security/Architect Sr IT CyberSecurity Engineer role to leverage extensive technical expertise and leadership experience. 
+extra-links:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: GED
+        university: College of Southern Nevada
+        time: 2002 - 2003
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+          High school equivalency diploma. College courses as High School student. 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Production Security Architect
+        time: 2022 - 2024
+        company: DTiQ Technologies, Las Vegas
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - Led production security over 40,000 devices representing 50M in annual recurring revenue; software upgrades and security compliance within budget
+          - Conducted compliance assessments against the CIS Controls, PCI, and ISO 27000 series.
+          - Collaborated with IT Infrastructure and Development teams to secure enterprise architecture and software development lifecycle (SDLC), including CI/CD pipeline.
+          - Designed a robust 5-year Security plan that could be integrated into the development roadmap, including security policies.
+          - Established effective communication channels to enhance security awareness and incident response.
+          - Managed and resolved security incidents using CNAPP (OrcaSecurity, AWS) and forensic tools (Sleuthkit, FTK Imager, Autopsy).
+          - Participated in penetration testing and drove secure coding practices through collaborative technology implementations.
+      - role: Advanced Technology Manager
+        time: 2018 - 2024
+        company: DTiQ Technologies, Las Vegas
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          - Advised and reported to C-suite on technical issues during the migration of 15,000+ edge devices.
+          - Developed roadmaps, optimized processes, and conducted security audits.
+          - Led Quarterly Business Reviews and platform approvals, impacting $20M ARR.
+          - Expert in escalations, fostering cross-department collaboration. Leading the Advanced Technology Group.
+          - Integrated 15,000 devices post-acquisition and led platform onboarding.
+          - Mastered POS integration, providing training and coaching.
+          - Managed lifecycle of 40,000 devices, ensuring compliance and performance.  
+      - role: Systems Analyst
+        time: 2017 - 2018
+        company: DTiQ Technologies, Las Vegas
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          - Created automation solutions to enhance and improve processes, saving over 2,000 hours in manual support hours the first year alone. 
+          - Generated extensive knowledgebase documentation utilized by both technical and non-technical departments.
+          - Trained teams on proprietary technology and solutions, providing leadership and development coaching. 
+      - role: Post Install Support Lead
+          time: 2013 - 2017
+          company: DTiQ Technologies, Las Vegas
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Ground up installation of software and cameras performing all remote configuraitions while field tech was on site. 
+            Integrated every POS Solution on DTT's integration list including but not limited to: Subway, Aloha,Radiant RPOS, Micros3700, Micros E7, Micros 9700, Triport Printer Taps, VSI Capture Boxes, Positouch
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I stay busy with AI and ML projects. I generate a lot of content and have a lot of fun with it.
+      I also have a homelab and several websites that I launched and maintain. Most are self-hosted in my homelab.
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: Dashy
+        link: "https://xedis.net"
+        tagline: "Dashboard to all my projects and links." 
 oss:
     title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: > 
+       I contribute to 1 primary open source project. 
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: SD.Next
+        link: "https://github.com/vladmandic/automatic"
+        tagline: "Stable diffusion web app for image and video generation." 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: null
+    intro: | 
+        null
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+      - title: null
+        link: null
+        authors: null
+        conference: null 
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
+    toolset: 
+      - name: Threat Hunting {E}
+      - name: Incident Response (IR)
+      - name: Forensics {E}
+      - name: Penetration Testing {I}
+      - name: Endpoint Security {E}
+      - name: Role Based Access Control (RBAC) {E}
+      - name: Active Defense {E}
+      - name: Wazuh {E}
+      - name: Sysmon {E}
+      - name: AC Hunter {E}
+      - name: Netdata {I}
+      - name: Elastic Agent {I}
+      - name: Nmap {E}
+      - name: Wireshark {E}
+      - name: ZAP {E}
+      - name: Burpsuite {I}
+      - name: Honeypots {E}
+      - name: Canarytokens {E}
+      - name: Static Analysis {I}
+      - name: Dynamic Analysis {I}
+      - name: Code Review {I}
+      - name: Secure Code Practices {E}
+      - name: OWASP Top 10 {E}
+      - name: Trufflehog {E}
+      - name: Dependabot {E}
+      - name: Snyk {E}
+      - name: Bash {E}
+      - name: Python {I}
+      - name: React {I}
+      - name: JavaScript {I}
+      - name: Go {I}
+      - name: Rust {I}
+      - name: PCI 4.0.1 {E}
+      - name: CIS Controls 8.1 {E}
+      - name: NIST 800-63 {E}
+      - name: NIST 800-53 {I}
+      - name: MITRE ATT&CK & Atomic Red Team {E}
+      - name: ProxMox {E}
+      - name: Nginx {I}
+      - name: Docker {E}
+      - name: Grafana {E}
+      - name: Prometheus {E}
+      - name: MSSQL, MySQL/MariaDB, SQLite3 {I}
+      - name: Kubernetes (k8s) {I}
+      - name: AWS
+      - name: Google Cloud
+      - name: Runpod
+      - name: Cloudtrail/CloudWatch
+      - name: Detective
+      - name: Security Hub
+      - name: IAM
+      - name: IAM Identity Center
+      - name: KMS
+      - name: Orca Security
+      - name: Control Tower
+      - name: Cloudformation
+      - name: Athena
+      - name: Elastic Container Registry
+      - name: Organizations
+      - name: Config
+      - name: Shopify
+      - name: Google Analytics
+      - name: Umami
+      - name: GitHub (Personal and Enterprise)
+      - name: Meta (FB and IG)
+      - name: Squarespace
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
