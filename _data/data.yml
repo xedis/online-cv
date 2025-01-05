@@ -131,15 +131,7 @@ oss:
       - title: SD.Next
         link: "https://github.com/vladmandic/automatic"
         tagline: "Stable diffusion web app for image and video generation. I contribute to the project by providing feedback and testing. If you check the commits, you'll see my name on a tiny one." 
-publications:
-    title: null
-    intro: | 
-        null
-    papers:
-      - title: null
-        link: null
-        authors: null
-        conference: null 
+
 skills:
     title: Skills &amp; Proficiency
 
