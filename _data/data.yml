@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Chris Xedis
@@ -21,7 +21,7 @@ sidebar:
     linkedin: xchrisx
     xing: 
     github: xedis
-    telegram: # add your nickname without '@' sign
+    telegram: xedis
     gitlab:
     bitbucket:
     twitter: '@_xedis_'
@@ -126,11 +126,11 @@ projects:
 oss:
     title: OSS Contributions
     intro: > 
-       I contribute to 1 primary open source project. 
+       I contribute to a single open source project, but am constantly looking for opportunities to contribute to more.
     contributions:
       - title: SD.Next
         link: "https://github.com/vladmandic/automatic"
-        tagline: "Stable diffusion web app for image and video generation." 
+        tagline: "Stable diffusion web app for image and video generation. I contribute to the project by providing feedback and testing. If you check the commits, you'll see my name on a tiny one." 
 publications:
     title: null
     intro: | 
@@ -147,6 +147,7 @@ skills:
       - name: Threat Hunting {E}
         level: 80%
       - name: Incident Response (IR)
+        level: 65%
       - name: Forensics {E}
         level: 80%
       - name: Penetration Testing {I}
@@ -232,26 +233,62 @@ skills:
       - name: Kubernetes (k8s) {I}
         level: 40%
       - name: AWS
+        level: 50%
       - name: Google Cloud
+        level: 30%
       - name: Runpod
+        level: 80%
       - name: Cloudtrail/CloudWatch
+        level: 90%
       - name: Detective
+        level: 65%
       - name: Security Hub
+        level: 60%
       - name: IAM
+        level: 90%
       - name: IAM Identity Center
+        level: 90%
       - name: KMS
+        level: 70%
       - name: Orca Security
+        level: 40%
       - name: Control Tower
+        level: 60%
       - name: Cloudformation
+        level: 50%
       - name: Athena
+        level: 70%
       - name: Elastic Container Registry
+        level: 90%
       - name: Organizations
+        level: 90%
       - name: Config
+        level: 40%
       - name: Shopify
+        level: 60%
       - name: Google Analytics
+        level: 30%
       - name: Umami
+        level: 40%
       - name: GitHub (Personal and Enterprise)
+        level: 65%
       - name: Meta (FB and IG)
+        level: 45%
       - name: Squarespace
+        level: 40% 
+      - name: Creative Problem Solving {E}
+        level: 100% 
+      - name: Leading Teams by Example {E}
+        level: 100%
+      - name: Sense of Humor {E}
+        level: 100% 
+      - name: Communication {E}
+        level: 100%
+      - name: Over sharing {I} 
+        level: 20%
+      - name: Paranoia {I}
+        level: 10%
+      - name: ArchLinux (i use arch btw)
+        level: 90%  
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
