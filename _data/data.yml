@@ -92,11 +92,13 @@ experiences:
         details: |
           - Advised and reported to C-suite on technical issues during the migration of 15,000+ edge devices.
           - Developed roadmaps, optimized processes, and conducted security audits.
-          - Led Quarterly Business Reviews and platform approvals, impacting $20M ARR.
+          - Led Quarterly Business Reviews and platform approvals with huge brands, impacting $20M ARR.
           - Expert in escalations, fostering cross-department collaboration. Leading the Advanced Technology Group.
           - Integrated 15,000 devices post-acquisition and led platform onboarding.
-          - Mastered POS integration, providing training and coaching.
-          - Managed lifecycle of 40,000 devices, ensuring compliance and performance.  
+          - Mastered POS integration, providing training and coaching to teams as well as Sales support with clients.
+          - Managed lifecycle of 40,000 devices, ensuring compliance and performance.
+          - Managed all Cloud POS Vendor Relationships and integrations. 
+          - Onboarded and facilitated the acquistion of a 90 site c-store chain........
       - role: Systems Analyst
         time: 2017 - 2018
         company: DTiQ Technologies, Las Vegas
@@ -104,12 +106,16 @@ experiences:
           - Created automation solutions to enhance and improve processes, saving over 2,000 hours in manual support hours the first year alone. 
           - Generated extensive knowledgebase documentation utilized by both technical and non-technical departments.
           - Trained teams on proprietary technology and solutions, providing leadership and development coaching. 
+          - Resolved critical SSL cert issue with every DVR access page that was flagging PCI Scans ran by customers.
+          - Collaborated with Qualys to add a global exception for GeoVision HTTP Server SSL Certs to prevent false positives.
+
       - role: Post Install Support Lead
         time: 2013 - 2017
         company: DTiQ Technologies, Las Vegas
         details: |
           - Ground up installation of software and cameras performing all remote configuraitions while field tech was on site. 
           - Integrated every POS Solution on DTT's integration list including but not limited to: Subway, Aloha,Radiant RPOS, Micros3700, Micros E7, Micros 9700, Triport Printer Taps, VSI Capture Boxes, Positouch
+          
 
 projects:
     title: Projects
