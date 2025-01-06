@@ -66,14 +66,7 @@ career-profile:
       Success in leading cross-functional teams and driving security initiatives in fast-paced environments. 
       Seeking a Senior Cloud Security/Architect Sr IT CyberSecurity Engineer role to leverage extensive technical expertise and leadership experience. 
 extra-links:
-education:
-    title: Education
-    info:
-      - degree: HS Diploma, Some College Credits
-        university: College of Southern Nevada
-        time: 2002 - 2003
-        details: |
-          High school equivalency diploma. College courses as High School student. 
+
 experiences:
     title: Experiences
     info:
@@ -284,5 +277,13 @@ skills:
         level: 90%
       - name: Ability to Stay In My Lane
         level: 0%  
+education:
+    title: Education
+    info:
+      - degree: HS Diploma, Some College Credits
+        university: College of Southern Nevada
+        time: 2002 - 2003
+        details: |
+          High school equivalency diploma. College courses as High School student.         
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
