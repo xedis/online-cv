@@ -253,8 +253,6 @@ skills:
         level: 90%
       - name: Ability to Stay In My Lane
         level: 0% 
-    title: AWS Specific Skills
-    toolset:
       - name: Cloudtrail/CloudWatch
         level: 90%
       - name: Detective
