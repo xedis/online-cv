@@ -82,7 +82,10 @@ experiences:
           - Managed and resolved security incidents using CNAPP (OrcaSecurity, AWS) and forensic tools (Sleuthkit, FTK Imager, Autopsy).
           - Participated in penetration testing and drove secure coding practices through collaborative technology implementations.
           - Designed and implemented a SIEM solution (Wazuh) to monitor production systems and track vulnerability patching.
-          - Found credential leakage 
+          - Utilized my own curiousity to discover and remediate security vulnerabilities in production systems. Usually before they were exploited.
+          - Relentless in my pursuit of security, especially data security and privacy.
+          - Protected the company crown jewels, intellectual property (IP), the data, and the customers data. 
+          - Initiated EVERY security project and drove ALMOST EVERY to completion.
       - role: Advanced Technology Manager
         time: 2018 - 2024
         company: DTiQ Technologies, Las Vegas
