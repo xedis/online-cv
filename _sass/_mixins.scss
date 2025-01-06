@@ -61,7 +61,7 @@
 	opacity: 		$opacity;
 }
 
-@mixin gradient($startColor: #eee, $endColor: white){
+@mixin gradient($startColor: #000000, $endColor: rgb(88, 0, 0)){
 	background-color: $startColor;
 	background: -webkit-gradient(linear, left top, left bottom, from($startColor), to($endColor));
 	background: -webkit-linear-gradient(top, $startColor, $endColor);
@@ -69,7 +69,7 @@
 	background: -ms-linear-gradient(top, $startColor, $endColor);
 	background: -o-linear-gradient(top, $startColor, $endColor);
 }
-@mixin horizontal-gradient($startColor: #eee, $endColor: white){
+@mixin horizontal-gradient($startColor: #380101, $endColor: white){
  	background-color: $startColor;
 	background-image: -webkit-gradient(linear, left top, right top, from($startColor), to($endColor));
 	background-image: -webkit-linear-gradient(left, $startColor, $endColor);
