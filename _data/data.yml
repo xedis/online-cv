@@ -45,8 +45,8 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Security
-          link:
+        - item: Security Research & CTFs
+          link: https://dashy.xedis.net/home/ctf-toolkit
 
         - item: AI/ML Generative Capabilities
           link: https://links.xedis.me
