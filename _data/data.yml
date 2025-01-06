@@ -224,33 +224,7 @@ skills:
       - name: Google Cloud
         level: 30%
       - name: Runpod
-        level: 80%
-      - name: Cloudtrail/CloudWatch
-        level: 90%
-      - name: Detective
-        level: 65%
-      - name: Security Hub
-        level: 60%
-      - name: IAM
-        level: 90%
-      - name: IAM Identity Center
-        level: 90%
-      - name: KMS
-        level: 70%
-      - name: Orca Security
-        level: 40%
-      - name: Control Tower
-        level: 60%
-      - name: Cloudformation
-        level: 50%
-      - name: Athena
-        level: 70%
-      - name: Elastic Container Registry
-        level: 90%
-      - name: Organizations
-        level: 90%
-      - name: Config
-        level: 40%
+        level: 80% 
       - name: Shopify
         level: 60%
       - name: Google Analytics
@@ -278,7 +252,35 @@ skills:
       - name: ArchLinux (i use arch btw)
         level: 90%
       - name: Ability to Stay In My Lane
-        level: 0%  
+        level: 0% 
+    title: AWS Specific Skills
+    toolset:
+      - name: Cloudtrail/CloudWatch
+        level: 90%
+      - name: Detective
+        level: 65%
+      - name: Security Hub
+        level: 60%
+      - name: IAM
+        level: 90%
+      - name: IAM Identity Center
+        level: 90%
+      - name: KMS
+        level: 70%
+      - name: Orca Security
+        level: 40%
+      - name: Control Tower
+        level: 60%
+      - name: Cloudformation
+        level: 50%
+      - name: Athena
+        level: 70%
+      - name: Elastic Container Registry
+        level: 90%
+      - name: Organizations
+        level: 90%
+      - name: Config
+        level: 40%    
 education:
     title: Education
     info:
