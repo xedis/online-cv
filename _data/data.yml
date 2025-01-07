@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Chris Xedis
@@ -66,7 +66,8 @@ career-profile:
       Success in leading cross-functional teams and driving security initiatives in fast-paced environments. 
       Seeking a Senior Cloud Security/Architect Sr IT CyberSecurity Engineer role to leverage extensive technical expertise and leadership experience. 
 extra-links:
-
+    title: Linktree 
+      - url: https://links.xedis.me
 experiences:
     title: Experiences
     info:
