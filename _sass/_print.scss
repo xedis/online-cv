@@ -16,6 +16,7 @@
       float: right;
       // Keep original color instead of forcing white
       -webkit-print-color-adjust: exact; 
+      print-color-adjust: exact;
    }
 
    .sidebar-wrapper {
@@ -23,6 +24,7 @@
       float: right;
       width: 40%;
       -webkit-print-color-adjust: exact; 
+      print-color-adjust: exact;
    }
 
    .remove-container.container-block {
@@ -36,6 +38,7 @@
    .skillset .level-bar-inner {
       // Remove forced black color
       -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
       position: relative;
       
       &::after {
@@ -53,5 +56,6 @@
    .fa-inverse:before {
       // Remove forced black color
       -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
    }
 }
