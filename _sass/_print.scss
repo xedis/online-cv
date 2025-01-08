@@ -1,38 +1,40 @@
-@media print
-   {
-    @page {
-        size: A4;
-    }
-    body {
-       font-size: 12pt;
-    }
-
-    img.avatar {
-        filter: color(1);
-        -webkit-filter: color(1);
-    }
-   .main-wrapper .time {
-       float: right;
-        color: rgb(255, 241, 241) !important;
-        -webkit-print-color-adjust: exact; 
+@media print {
+   @page {
+      size: A4;
    }
-    .sidebar-wrapper {
-        position: static;
-        float: right;
-        width: 40%;
-        -webkit-print-color-adjust: exact; 
-    }
+   body {
+      font-size: 12pt;
+   }
 
-    .remove-container.container-block {
-       display: none;
-    }
+   img.avatar {
+      // Remove the grayscale filter
+      filter: none;
+      -webkit-filter: none;
+   }
 
-    footer {
-       display: none;
+   .main-wrapper .time {
+      float: right;
+      // Keep original color instead of forcing white
+      -webkit-print-color-adjust: exact; 
+   }
+
+   .sidebar-wrapper {
+      position: static;
+      float: right;
+      width: 40%;
+      -webkit-print-color-adjust: exact; 
+   }
+
+   .remove-container.container-block {
+      display: none;
+   }
+
+   footer {
+      display: none;
    }
 
    .skillset .level-bar-inner {
-      background-color: black !important;
+      // Remove forced black color
       -webkit-print-color-adjust: exact;
       position: relative;
       
@@ -41,14 +43,15 @@
          position: absolute;
          right: 0;
          top: -20px;
-         color: black;
+         // Remove forced black color
+         color: inherit;
       }
    }
 
    .fa-inverse,
    .fa-inverse:after,
    .fa-inverse:before {
-     color: #000000 !important;
+      // Remove forced black color
+      -webkit-print-color-adjust: exact;
    }
-
 }
