@@ -63,8 +63,8 @@ career-profile:
       - Chronically curious technology professional with 20+ years of experience specializing in enterprise security architecture, cloud infrastructure, and POS data integration and retention.
       - Most recently secured an AWS Organization consisting of 10 AWS accounts and over 6 figures in monthly spend.
       - Expert in AWS cloud security, risk management & compliance frameworks such as PCI, CIS Controls and AWS Well Architected Framework.
-      - Aligned security posture across development and operations teams, ensure compliance with security policies, and drive security initiatives.
-      - Seeking a Senior Cloud Security/Architect Sr IT CyberSecurity Engineer role to leverage extensive technical expertise and leadership experience. 
+      - Aligned security posture across development and operations teams, ensuring compliance with security policies championing security initiatives.
+      - Seeking a Senior Cloud Security/Architect Sr IT CyberSecurity Engineer/Analyst II role to leverage extensive technical expertise and leadership experience. 
 extra-links:
     title: Linktree 
     url: https://links.xedis.me
@@ -97,7 +97,7 @@ experiences:
           - Expert in escalations, fostering cross-department collaboration. Leading the Advanced Technology Group.
           - Mastered POS integration, providing training and coaching to teams as well as Sales support with clients and Cloud POS Vendor Relationships and integrations. 
           - Managed lifecycle of 40,000 devices, ensuring compliance and performance.
-          - Onboarded and facilitated the acquistion of a 90 site c-store chain........
+          - Continued these responsibilities while taking on the role of Production Security Architect.
       - role: Systems Analyst
         time: 2017 - 2018
         company: DTiQ Technologies, Las Vegas
@@ -141,7 +141,7 @@ skills:
       - name: Threat Hunting {E}
         level: 80%
       - name: Incident Response (IR)
-        level: 65%
+        level: 65% - Security Architect - Totally Not Phishing.....Really it's Just my Resume_
       - name: Forensics {E}
         level: 80%
       - name: Penetration Testing {I}
@@ -277,7 +277,7 @@ skills:
       - name: Control Tower
         level: 60%
       - name: Cloudformation
-        level: 50%
+        level: 60%
       - name: Athena
         level: 70%
       - name: Elastic Container Registry
@@ -285,7 +285,19 @@ skills:
       - name: Organizations
         level: 90%
       - name: Config
-        level: 40%    
+        level: 40% 
+      - name: Data Recovery Techniques {E}
+        level: 80%
+      - name: Chain-of-Custody {E}
+        level: 70%
+      - name: Ghidra {E}
+        level: 50%
+      - name: FTK Imager {E}
+        level: 90%
+      - name: Autopsy {E}
+        level: 90%
+      - name: Sleuthkit {E}
+        level: 90%        
 education:
     title: Education
     info:
@@ -293,8 +305,6 @@ education:
         university: College of Southern Nevada
         time: 2002 - 2003
         details: |
-          High school equivalency diploma. College courses as High School student. 
-
-
+          High school equivalency diploma. College courses as High School student.
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
