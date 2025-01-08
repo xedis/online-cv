@@ -8,8 +8,8 @@
     }
 
     img.avatar {
-        filter: grayscale(1);
-        -webkit-filter: greyscale(1);
+        filter: color(1);
+        -webkit-filter: color(1);
     }
    .main-wrapper .time {
        float: right;
@@ -29,12 +29,21 @@
 
     footer {
        display: none;
-    }
+   }
 
-    .skillset .level-bar-inner {
-       background-color: black !important;
-       -webkit-print-color-adjust: exact; 
-    }
+   .skillset .level-bar-inner {
+      background-color: black !important;
+      -webkit-print-color-adjust: exact;
+      position: relative;
+      
+      &::after {
+         content: attr(data-level);
+         position: absolute;
+         right: 0;
+         top: -20px;
+         color: black;
+      }
+   }
 
    .fa-inverse,
    .fa-inverse:after,
