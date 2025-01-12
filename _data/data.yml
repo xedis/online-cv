@@ -62,7 +62,7 @@ career-profile:
     summary: |
       - Chronically curious technology professional with 20+ years of experience specializing in enterprise security architecture, cloud infrastructure, and POS data integration and retention.
       - Most recently secured an AWS Organization consisting of 10 AWS accounts and over 6 figures in monthly spend.
-      - Expert in AWS cloud security, risk management & compliance frameworks such as PCI, CIS Controls and AWS Well Architected Framework.
+      - Experienced in AWS cloud security, risk management & compliance frameworks such as PCI, CIS Controls and AWS Well Architected Framework.
       - Aligned security posture across development and operations teams, ensuring compliance with security policies championing security initiatives.
       - Seeking a Senior Cloud Security/Architect Sr IT CyberSecurity Engineer/Analyst II role to leverage extensive technical expertise and leadership experience. 
 extra-links:
@@ -85,7 +85,7 @@ experiences:
           - Designed and implemented a SIEM solution (Wazuh) to monitor production systems and track vulnerability patching.
           - Utilized my own curiousity to discover and remediate security vulnerabilities in production systems. Usually before they were exploited.
           - Relentless in my pursuit of security, especially data security and privacy.
-          - Protected the company crown jewels, intellectual property (IP), the data, and the customers data. 
+          - Protected the company crown jewels, intellectual property (IP), the data, and the customer's data. 
           - Initiated EVERY security project and drove ALMOST EVERY one of those to completion.
       - role: Advanced Technology Manager
         time: 2018 - 2024
