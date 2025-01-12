@@ -1,6 +1,7 @@
 ## My CV ##
 
 
+![image](https://github.com/user-attachments/assets/4e729c52-eeee-4096-a324-323ee2555aba)
 
 
 
