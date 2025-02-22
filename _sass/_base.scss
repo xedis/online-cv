@@ -14,7 +14,8 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+h7 {
   font-weight: 700;
 }
 
@@ -263,24 +264,23 @@ p {
     }
   }
 }
-
 .skillset {
-  .item {
+  table {
+    width: 100%;
+    border-collapse: collapse;
     margin-bottom: 15px;
-    overflow: hidden;
   }
-  .level-title {
-    font-size: 14px;
-    margin-top: 0;
-    margin-bottom: 12px;
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid $smoky-white;
   }
-  .level-bar {
-    height: 12px;
-    background: $smoky-white;
-  }
-  .level-bar-inner {
-    height: 12px;
+  th {
     background: lighten($theme-color, 15%);
+    color: $text-color;
+  }
+  td {
+    color: $text-color-secondary;
   }
 }
 

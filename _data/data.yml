@@ -169,167 +169,245 @@ skills:
     title: Skills Years of Experience
 
     toolset: 
-      - name: Data Recovery Techniques {5+ years}
+      - name: Data Recovery Techniques 
+        years: 7
         ## level: 80%
-      - name: Chain-of-Custody {5+ years}
+      - name: Chain-of-Custody 
+        years: 7
         ## level: 70%
-      - name: Ghidra {5+ years}
+      - name: Ghidra 
+        years: 7
         ## level: 50%
-      - name: FTK Imager {5+ years}
+      - name: FTK Imager 
+        years: 7
         ## level: 90%
-      - name: Autopsy {5+ years}
+      - name: Autopsy 
+        years: 7
         ## level: 90%
-      - name: Sleuthkit {5+ years}
+      - name: Sleuthkit 
+        years: 7
         ## level: 90%
-      - name: Forensics {5+ years}
+      - name: Forensics 
+        years: 7
         ## level: 80%
-      - name: Endpoint Security {5+ years}
+      - name: Endpoint Security 
+        years: 7
         ## level: 80%
-      - name: Role Based Access Control (RBAC) {5+ years}
+      - name: Role Based Access Control (RBAC) 
+        years: 7
         ## level: 80%
-      - name: Active Defense {5+ years}
+      - name: Active Defense 
+        years: 7
         ## level: 80%
-      - name: Wazuh {5+ years}
+      - name: Wazuh 
+        years: 7
         ## level: 80%
-      - name: Sysmon {5+ years}
+      - name: Sysmon 
+        years: 7
         ## level: 80%
       - name: Threat Hunting 
+        years: 6
         ## level: 80%
-      - name: Incident Response {1-3 years}
+      - name: Incident Response 
+        years: 3
         ## level: 65% 
-      - name: Creative Problem Solving {5+ years}
+      - name: Creative Problem Solving 
+        years: 7
         ## level: 100% 
-      - name: Leading Teams by Example {5+ years}
+      - name: Leading Teams by Example 
+        years: 7
         ## level: 100%
-      - name: Sense of Humor {5+ years}
+      - name: Sense of Humor 
+        years: 10
         ## level: 100% 
-      - name: Communication {5+ years}
+      - name: Communication 
+        years: 7
         ## level: 100%        
-      - name: Penetration Testing {1-3 years}
+      - name: Penetration Testing 
+        years: 3
         ## level: 40%
-      - name: Netdata {1-3 years}
+      - name: Netdata 
+        years: 3
         ## level: 40%
-      - name: Elastic Agent {1-3 years}
+      - name: Elastic Agent 
+        years: 3
         ## level: 40%
-      - name: Nmap {5+ years}
+      - name: Nmap 
+        years: 7
         ## level: 80%
-      - name: Wireshark {5+ years}
+      - name: Wireshark 
+        years: 7
         ## level: 80%
-      - name: ZAP {5+ years}
+      - name: ZAP 
+        years: 7
         ## level: 80%
-      - name: Burpsuite {1-3 years}
+      - name: Burpsuite 
+        years: 3
         ## level: 40%
-      - name: Honeypots {5+ years}
+      - name: Honeypots 
+        years: 7
         ## level: 80%
-      - name: Canarytokens {5+ years}
+      - name: Canarytokens 
+        years: 7
         ## level: 80%
-      - name: Static Analysis {1-3 years}
+      - name: Static Analysis 
+        years: 3
         ## level: 40%
-      - name: Dynamic Analysis {1-3 years}
+      - name: Dynamic Analysis 
+        years: 3
         ## level: 40%
-      - name: Code Review {1-3 years}
+      - name: Code Review 
+        years: 3
         ## level: 40%
-      - name: Secure Code Practices {5+ years}
+      - name: Secure Code Practices 
+        years: 7
         ## level: 80%
-      - name: OWASP Top 10 {5+ years}
+      - name: OWASP Top 10 
+        years: 7
         ## level: 80%
-      - name: Trufflehog {5+ years}
+      - name: Trufflehog 
+        years: 7
         ## level: 80%
-      - name: Dependabot {3-5 years}
+      - name: Dependabot 
+        years: 5
         ## level: 80%      
-
-      - name: ProxMox {5+ years}
+      - name: ProxMox 
+        years: 7
         ## level: 80%
-      - name: Nginx {1-3 years}
+      - name: Nginx 
+        years: 3
         ## level: 40%
-      - name: Docker {5+ years}
+      - name: Docker 
+        years: 7
         ## level: 80%
-      - name: Grafana {5+ years}
+      - name: Grafana 
+        years: 7
         ## level: 80%
-      - name: Prometheus {5+ years}
+      - name: Prometheus 
+        years: 7
         ## level: 80%
-      - name: Snyk {5+ years}
+      - name: Snyk 
+        years: 7
         ## level: 80%
-      - name: Bash {5+ years}
+      - name: Bash 
+        years: 7
         ## level: 80%
-      - name: Python {1-3 years}
+      - name: Python 
+        years: 3
         ## level: 40%
-      - name: React {1-3 years}
+      - name: React 
+        years: 3
         ## level: 40%
-      - name: JavaScript {1-3 years}
+      - name: JavaScript 
+        years: 3
         ## level: 40%
-      - name: Go {1-3 years}
+      - name: Go 
+        years: 3
         ## level: 40%
-      - name: AC Hunter {1-3 years}
+      - name: AC Hunter 
+        years: 3
         ## level: 80%
-      - name: Rust {1-3 years}
+      - name: Rust 
+        years: 3
         ## level: 40%
-      - name: PCI 4.0.1 {1-3 years}
+      - name: PCI 4.0.1 
+        years: 3
         ## level: 80%
-      - name: CIS Controls 8.1 {1-3 years}
+      - name: CIS Controls 8.1 
+        years: 3
         ## level: 80%
-      - name: NIST 800-63 {3-5 years}
+      - name: NIST 800-63 
+        years: 5
         ## level: 80%
-      - name: NIST 800-53 {3-5 years}
+      - name: NIST 800-53 
+        years: 5
         ## level: 40%
-      - name: MITRE ATT&CK & Atomic Red Team {3-5 years}
+      - name: MITRE ATT&CK & Atomic Red Team 
+        years: 5
         ## level: 80%
-      - name: MSSQL, MySQL/MariaDB, SQLite3 {1-3 years}
+      - name: MSSQL, MySQL/MariaDB, SQLite3 
+        years: 3
         ## level: 40%
-      - name: Kubernetes (k8s) {1-3 years}
+      - name: Kubernetes (k8s) 
+        years: 3
         ## level: 40%
       - name: AWS
+        years: 5
         ## level: 50%
       - name: Google Cloud
+        years: 2
         ## level: 30%
       - name: Runpod
+        years: 1
         ## level: 80% 
       - name: Shopify
+        years: 3
         ## level: 60%
       - name: Google Analytics
+        years: 3
         ## level: 30%
-      - name: Umami Analytics {1-3 years}
+      - name: Umami Analytics
+        years: 3
         ## level: 40%
-      - name: GitHub (Personal and Enterprise) {3-5 years}
+      - name: GitHub (Personal and Enterprise) 
+        years: 5
         ## level: 65%
-      - name: Meta (FB and IG) {3-5 years}
+      - name: Meta (FB and IG) 
+        years: 5
         ## level: 45%
-      - name: Squarespace {1-3 years}
+      - name: Squarespace 
+        years: 3
         ## level: 40% 
-
-      - name: Over sharing {1-3 years} 
+      - name: Over sharing 
+        years: 3 
         ## level: 20%
-      - name: Paranoia {1-3 years}
+      - name: Paranoia 
+        years: 3
         ## level: 10%
       - name: ArchLinux (i use arch btw)
+        years: 8
         ## level: 90%
       - name: Ability to Stay In My Lane
+        years: 1
         ## level: 0% 
-      - name: Cloudtrail/CloudWatch {3-5 years}
+      - name: Cloudtrail/CloudWatch 
+        years: 5
         ## level: 90%
-      - name: Detective {1-3 years}
+      - name: Detective 
+        years: 3
         ## level: 65%
-      - name: Security Hub {1-3 years}
+      - name: Security Hub 
+        years: 3
         ## level: 60%
-      - name: IAM {3-5 years}
+      - name: IAM 
+        years: 5
         ## level: 90%
-      - name: IAM Identity Center {3-5 years}
+      - name: IAM Identity Center 
+        years: 5
         ## level: 90%
-      - name: KMS {1-3 years}
+      - name: KMS 
+        years: 3
         ## level: 70%
-      - name: Orca Security {1 month}
+      - name: Orca Security
+        years: 1
         ## level: 40%
-      - name: Control Tower {1-3 years}
+      - name: Control Tower 
+        years: 3
         ## level: 60%
-      - name: Cloudformation {1-3 years}
+      - name: Cloudformation 
+        years: 2
         ## level: 60%
-      - name: Athena {1-3 years}
+      - name: Athena 
+        years: 3
         ## level: 70%
-      - name: Elastic Container Registry {1-3 years}
+      - name: Elastic Container Registry 
+        years: 3
         ## level: 90%
-      - name: Organizations {1-3 years}
+      - name: Organizations 
+        years: 3
         ## level: 90% 
-      - name: Config {1-3 years}
+      - name: Config 
+        years: 3
         ## level: 40% 
 
 education:

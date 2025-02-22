@@ -9,15 +9,19 @@
   </h2>
 
   <div class="skillset">
-    {% for skill in skills.toolset %}
+    {% assign sorted_skills = skills.toolset | sort: 'years' | reverse %}
+    {% for skill in sorted_skills %}
+    {% assign green_value = skill.years | times: 25 %}
+    {% assign red_value = 255 | minus: green_value %}
+    {% if green_value > 255 %}
+      {% assign green_value = 255 %}
+    {% endif %}
+    {% if red_value < 0 %}
+      {% assign red_value = 0 %}
+    {% endif %}
     <div class="item">
-      <h3 class="level-title">{{ skill.name }}</h3>
-      {% assign skill_level = 'width: ' | append: skill.level %}
-      <div class="level-bar">
-        <div class="level-bar-inner" style="{{skill_level}}"></div>
-      </div>
-      <!--//level-bar-->
-    </div>
+      <h6 class="level-title">{{ skill.name }} - <span style="color: rgb({{ red_value }}, {{ green_value }}, 0);">{{ skill.years }} years</span></h6>
+    </div> 
     <!--//item-->
     {% endfor %}
   </div>
