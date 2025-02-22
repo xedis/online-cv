@@ -439,7 +439,8 @@ skills:
         years: 5
       - name: Spear Phishing
         years: 5
-      -              
+      - name: Playing in the dark
+        years: 15            
 
 education:
     title: Education
