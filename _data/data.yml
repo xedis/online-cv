@@ -173,82 +173,82 @@ skills:
         years: 7
         ## level: 80%
       - name: Chain-of-Custody 
-        years: 7
+        years: 6
         ## level: 70%
       - name: Ghidra 
-        years: 7
+        years: 5
         ## level: 50%
       - name: FTK Imager 
-        years: 7
+        years: 6
         ## level: 90%
       - name: Autopsy 
-        years: 7
+        years: 6
         ## level: 90%
       - name: Sleuthkit 
-        years: 7
+        years: 6
         ## level: 90%
       - name: Forensics 
-        years: 7
+        years: 6
         ## level: 80%
       - name: Endpoint Security 
         years: 7
         ## level: 80%
       - name: Role Based Access Control (RBAC) 
-        years: 7
+        years: 4
         ## level: 80%
       - name: Active Defense 
-        years: 7
+        years: 5
         ## level: 80%
       - name: Wazuh 
-        years: 7
+        years: 4
         ## level: 80%
       - name: Sysmon 
-        years: 7
+        years: 4
         ## level: 80%
       - name: Threat Hunting 
-        years: 6
+        years: 4
         ## level: 80%
       - name: Incident Response 
         years: 3
         ## level: 65% 
       - name: Creative Problem Solving 
-        years: 7
+        years: 10
         ## level: 100% 
       - name: Leading Teams by Example 
-        years: 7
+        years: 10
         ## level: 100%
       - name: Sense of Humor 
         years: 10
         ## level: 100% 
       - name: Communication 
-        years: 7
+        years: 10
         ## level: 100%        
       - name: Penetration Testing 
         years: 3
         ## level: 40%
       - name: Netdata 
-        years: 3
+        years: 1
         ## level: 40%
       - name: Elastic Agent 
-        years: 3
+        years: 1
         ## level: 40%
       - name: Nmap 
-        years: 7
+        years: 6
         ## level: 80%
       - name: Wireshark 
-        years: 7
+        years: 10
         ## level: 80%
       - name: ZAP 
-        years: 7
+        years: 5
         ## level: 80%
       - name: Burpsuite 
         years: 3
         ## level: 40%
       - name: Honeypots 
-        years: 7
+        years: 4
         ## level: 80%
       - name: Canarytokens 
-        years: 7
+        years: 3
         ## level: 80%
       - name: Static Analysis 
         years: 3
@@ -257,19 +257,19 @@ skills:
         years: 3
         ## level: 40%
       - name: Code Review 
-        years: 3
+        years: 2
         ## level: 40%
       - name: Secure Code Practices 
-        years: 7
+        years: 2
         ## level: 80%
       - name: OWASP Top 10 
         years: 7
         ## level: 80%
       - name: Trufflehog 
-        years: 7
+        years: 4
         ## level: 80%
       - name: Dependabot 
-        years: 5
+        years: 3
         ## level: 80%      
       - name: ProxMox 
         years: 7
@@ -278,16 +278,16 @@ skills:
         years: 3
         ## level: 40%
       - name: Docker 
-        years: 7
+        years: 10
         ## level: 80%
       - name: Grafana 
-        years: 7
+        years: 5
         ## level: 80%
       - name: Prometheus 
-        years: 7
+        years: 5
         ## level: 80%
       - name: Snyk 
-        years: 7
+        years: 1
         ## level: 80%
       - name: Bash 
         years: 7
@@ -296,19 +296,19 @@ skills:
         years: 3
         ## level: 40%
       - name: React 
-        years: 3
+        years: 1
         ## level: 40%
       - name: JavaScript 
-        years: 3
+        years: 1
         ## level: 40%
       - name: Go 
-        years: 3
+        years: 1
         ## level: 40%
       - name: AC Hunter 
-        years: 3
+        years: 1
         ## level: 80%
       - name: Rust 
-        years: 3
+        years: 1
         ## level: 40%
       - name: PCI 4.0.1 
         years: 3
@@ -326,10 +326,10 @@ skills:
         years: 5
         ## level: 80%
       - name: MSSQL, MySQL/MariaDB, SQLite3 
-        years: 3
+        years: 6
         ## level: 40%
       - name: Kubernetes (k8s) 
-        years: 3
+        years: 1
         ## level: 40%
       - name: AWS
         years: 5
@@ -356,10 +356,10 @@ skills:
         years: 5
         ## level: 45%
       - name: Squarespace 
-        years: 3
+        years: 1
         ## level: 40% 
       - name: Over sharing 
-        years: 3 
+        years: 10 
         ## level: 20%
       - name: Paranoia 
         years: 3
@@ -380,10 +380,10 @@ skills:
         years: 3
         ## level: 60%
       - name: IAM 
-        years: 5
+        years: 3
         ## level: 90%
       - name: IAM Identity Center 
-        years: 5
+        years: 3
         ## level: 90%
       - name: KMS 
         years: 3
@@ -401,13 +401,13 @@ skills:
         years: 3
         ## level: 70%
       - name: Elastic Container Registry 
-        years: 3
+        years: 1
         ## level: 90%
       - name: Organizations 
-        years: 3
+        years: 1
         ## level: 90% 
       - name: Config 
-        years: 3
+        years: 1
         ## level: 40% 
 
 education:
