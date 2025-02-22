@@ -408,7 +408,38 @@ skills:
         ## level: 90% 
       - name: Config 
         years: 1
-        ## level: 40% 
+        ## level: 40%
+      - name: RTSP 
+        years: 10
+      - name: Onvif 
+        years: 10
+      - name: POE Networking
+        years: 10
+      - name: IP cameras
+        years: 10
+      - name: DVR/NVR
+        years: 10
+      - name: POS Integration
+        years: 10
+      - name: Cloud POS Integration
+        years: 10
+      - name: Cloud POS Vendor Relationships
+        years: 10
+      - name: Printer Taps
+        years: 10
+      - name: DB9/RS232 Serial
+        years: 10
+      - name: DB25 Parallel
+        years: 10
+      - name: Bruteforce Techniques
+        years: 5
+      - name: Social Engineering
+        years: 5
+      - name: Phishing
+        years: 5
+      - name: Spear Phishing
+        years: 5
+      -              
 
 education:
     title: Education
