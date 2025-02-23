@@ -67,7 +67,7 @@ career-profile:
     title: Career Profile
     summary: |
       - Chronically curious technology professional with 2 decades of experience specializing in enterprise security architecture, cloud infrastructure, integrating POS data and video to produce actionable alerting and reporting.
-      - Most recently secured an AWS Organization consisting of 10 AWS accounts and over 6 figures in monthly spend.
+      - Most recently secured an AWS Organization consisting of a dozen AWS accounts and over 6 figures in monthly spend.
       - Experienced in AWS cloud security, risk management & compliance frameworks such as PCI, CIS Controls and AWS Well Architected Framework.
       - Aligned security posture across development and operations teams, ensuring compliance with security policies championing security initiatives.
       - Seeking a Senior Cloud Security/Architect Sr IT CyberSecurity Engineer/Analyst II role to leverage my experience in cloud security, risk management, and compliance frameworks.
@@ -176,7 +176,7 @@ recommendations:
       - More on <a href= "https://linkedin.com/in/xchrisx/" target="_blank">LinkedIn</a>
   
 skills:
-    title: Skills Years of Experience
+    title: Skills | Years of Experience
 
     toolset: 
       - name: Data Recovery Techniques 
