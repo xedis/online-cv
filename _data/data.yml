@@ -48,14 +48,20 @@ sidebar:
         - item: Security Research & CTFs
           link: https://dashy.xedis.net/home/ctf-toolkit
 
-        - item: AI/ML Generative Capabilities
+        - item: AI/ML Projects | 
           link: https://links.xedis.me
 
         - item: Family
           link: null 
         
         - item: Gaming (Warframe, etc)
-          link: https://steamcommunity.com/profiles/76561198379290620/   
+          link: https://steamcommunity.com/profiles/76561198379290620/
+
+        - item: 3D Printing
+          link: null
+
+        - item: Anime 
+          link: https://crunchyroll.com     
 
 career-profile:
     title: Career Profile
@@ -139,13 +145,17 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I stay busy with AI and ML projects. I generate a lot of content and have a lot of fun with it.
-      I also have a homelab and several websites that I launched and maintain. Most are self-hosted in my homelab.
-
+      I have a few projects that I work on in my free time:
     assignments:
       - title: Dashy
         link: "https://xedis.net"
         tagline: "Dashboard to all my projects and project links." 
+      - title: VoidXedis
+        link: "https://voidxedis.com"
+        tagline: "POD (print on demand) store for my designs."
+      - title: Self-hosting infrastructure 
+        link: "https://xedis.net"
+        tagline: "Small 6 node cluster of mismatched hardware running Proxmox and a variety of containers and VMs. I use this to test open source software and learn new concepts and implementations of software and hardware."  
 oss:
     title: OSS Contributions
     intro: > 
