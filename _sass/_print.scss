@@ -35,20 +35,25 @@
       display: none;
    }
 
-   .skillset .level-bar-inner {
-      // Remove forced black color
-      -webkit-print-color-adjust: exact;
-      print-color-adjust: exact;
-      position: relative;
-      
-      &::after {
-         content: attr(data-level);
-         position: absolute;
-         right: 0;
-         top: -20px;
+   .skillset {
+      columns: 2;
+      column-width:auto;
+      column-gap: 10px;
+   }
+      .level-bar-inner {
          // Remove forced black color
-         color: inherit;
-      }
+         -webkit-print-color-adjust: exact;
+         print-color-adjust: exact;
+         position: relative;
+         
+         &::after {
+            content: attr(data-level);
+            position: absolute;
+            right: 0;
+            top: -20px;
+            // Remove forced black color
+            color: inherit;
+         }
    }
 
    .fa-inverse,
