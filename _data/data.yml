@@ -237,9 +237,6 @@ skills:
       - name: Penetration Testing 
         years: 3
         ## level: 40%
-      - name: Netdata 
-        years: 1
-        ## level: 40%
       - name: Elastic Agent 
         years: 1
         ## level: 40%

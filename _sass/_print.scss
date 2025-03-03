@@ -3,7 +3,7 @@
       size: A4;
    }
    body {
-      font-size: 9pt;
+      font-size: 9.25pt;
    }
 
    img.avatar {
@@ -37,9 +37,8 @@
 
    .skillset {
       columns: 2;
-      column-width:auto;
       column-gap: 10px;
-   }
+
       .level-bar-inner {
          // Remove forced black color
          -webkit-print-color-adjust: exact;
@@ -54,6 +53,7 @@
             // Remove forced black color
             color: inherit;
          }
+      }
    }
 
    .fa-inverse,
