@@ -134,6 +134,7 @@ experiences:
           - Provided technical support for network issues.
           - Assisted with network troubleshooting and maintenance.
           - SSH'd into Cisco switches and routers to troubleshoot network issues.
+          - Survived 8 rounds of layoffs before being offered a full time position.
       - role: Owner
         time: 2005 - 2013
         company: Brimstone Tech, Las Vegas
@@ -146,7 +147,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I have a few projects that I work on in my free time:
+      Trying to stay busy while still learning new things ever expanding my knowledge base.
     assignments:
       - title: Dashy
         link: "https://xedis.net"
@@ -366,7 +367,7 @@ skills:
       - name: Squarespace 
         years: 1
         ## level: 40% 
-      - name: Over sharing 
+      - name: Over sharing ( Kiddddding)
         years: 10 
         ## level: 20%
       - name: Paranoia 
