@@ -147,7 +147,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Trying to stay busy while still learning new things ever expanding my knowledge base. Lately I've been expanding my local LLM (Local Learning Machine) functional and training knowledge. I even created a custom embedding for Meta's SlimSAM model which can identify company hardware in the middle of a rats nest of a photo. 
+      Trying to stay busy while still learning new things ever expanding my knowledge base. Lately I've been locally running custom LLMs (Large Language Models) and training custom embeddings for Meta's Segment Anything (SAM) model which can identify company hardware in the middle of a rats nest of a photo. 
     assignments:
       - title: Dashy
         link: "https://xedis.net"
