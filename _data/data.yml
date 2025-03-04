@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
+    mastodon: https://infosec.exchange/@xedis # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
@@ -70,7 +70,7 @@ career-profile:
       - Most recently secured an AWS Organization consisting of a dozen AWS accounts and over 6 figures in monthly spend.
       - Experienced in AWS cloud security, risk management & compliance frameworks such as PCI, CIS Controls and AWS Well Architected Framework.
       - Aligned security posture across development and operations teams, ensuring compliance with security policies championing security initiatives.
-      - Seeking a Senior Cloud Security/Architect Sr IT CyberSecurity Engineer/Analyst II role to leverage my experience in cloud security, risk management, and compliance frameworks.
+      - Seeking a Senior Cloud Security Architect, Senior IT CyberSecurity Engineer, ...Analyst II role to leverage my experience in cloud security, risk management, and compliance frameworks.
       - Also open to any other opportunities that may be a good fit.
 extra-links:
     title: Linktree 
@@ -103,7 +103,7 @@ experiences:
           - Well versed in escalations, fostering cross-department collaboration. Leading the Advanced Technology Group.
           - Mastered POS integration, providing training and coaching to teams as well as Sales support with clients and Cloud POS Vendor Relationships and integrations. 
           - Managed lifecycle of 40,000 devices, ensuring compliance and performance.
-          - Continued these responsibilities while taking on the role of Production Security Architect.
+          - Continued these responsibilities while taking on the role of Production Security Architect. Including being cross departmental mentor for support representatives providing guidance and collaboration interdepartmentally.
       - role: Systems Analyst
         time: March 2017 - March 2018
         company: DTiQ Technologies, Las Vegas
