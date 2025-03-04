@@ -79,7 +79,7 @@ experiences:
     title: Experiences
     info:
       - role: Production Security Architect
-        time: 2022 - 2024
+        time: December 2022 - August 2024
         company: DTiQ Technologies, Las Vegas
         details: |
           - Led production security over 40,000 devices representing 50M in annual recurring revenue; software upgrades and security compliance within budget
@@ -94,7 +94,7 @@ experiences:
           - Protected the company crown jewels, intellectual property (IP), the data, and the customer's data. 
           - Initiated every security project and drove almost every one of those to completion.
       - role: Advanced Technology Manager
-        time: 2018 - 2024
+        time: March 2018 - August 2024
         company: DTiQ Technologies, Las Vegas
         details: |
           - Advised and reported to C-suite on technical issues during the migration of 15,000+ edge devices post-acquisition and led platform onboarding.
@@ -105,7 +105,7 @@ experiences:
           - Managed lifecycle of 40,000 devices, ensuring compliance and performance.
           - Continued these responsibilities while taking on the role of Production Security Architect.
       - role: Systems Analyst
-        time: 2017 - 2018
+        time: March 2017 - March 2018
         company: DTiQ Technologies, Las Vegas
         details: |
           - Created automation solutions to enhance and improve processes, saving over 2,000 hours in manual support hours the first year alone. 
@@ -114,20 +114,20 @@ experiences:
           - Resolved critical SSL cert issue with every DVR access page that was flagging PCI Scans ran by customers.
           - Collaborated with Qualys to add a global exception for GeoVision HTTP Server SSL Certs to prevent false positives. 
       - role: Post Install Support Lead
-        time: 2013 - 2017
+        time: December 2013 - March 2017
         company: DTiQ Technologies, Las Vegas
         details: |
           - Ground up installation of software and cameras performing all remote configuraitions while field tech was on site. 
           - Integrated every POS Solution on DTT's integration list including but not limited to: Subway, Aloha,Radiant RPOS, Micros3700, Micros E7, Micros 9700, Triport Printer Taps, VSI Capture Boxes, Positouch 
       - role: CSR-I Residential Support
-        time: 2012 - 2013
+        time: August 2012 - August 2013
         company: Cox Communications, Las Vegas
         details: |
           - Provided technical support for residential customers, including troubleshooting internet, phone, and cable services.
           - Assisted customers with billing inquiries and account management.
           - Resolved customer issues in a timely and professional manner.
       - role: Hospitality Network - Cox Business - Temp
-        time: 2010-2012
+        time: January 2010- August 2012
         company: Cox Communications, Las Vegas
         details: |
           - Inbound call center for hotel guests at the MGM Grand, Mandalay Bay, and Luxor amonst others.
@@ -136,7 +136,7 @@ experiences:
           - SSH'd into Cisco switches and routers to troubleshoot network issues.
           - Survived 8 rounds of layoffs before being offered a full time position.
       - role: Owner
-        time: 2005 - 2013
+        time: January 2005 - August 2013
         company: Brimstone Tech, Las Vegas
         details: |
           - Provided computer repair and maintenance services to residential and small business customers.
@@ -154,7 +154,7 @@ projects:
         tagline: "Dashboard to all my projects and project links." 
       - title: VoidXedis
         link: "https://voidxedis.com"
-        tagline: "POD (print on demand) store for my designs."
+        tagline: "POD (print on demand) store for my Diffusion Assisted Art."
       - title: Self-hosting infrastructure 
         link: "https://xedis.net"
         tagline: "Small 6 node cluster of mismatched hardware running Proxmox and a variety of containers and VMs. I use this to test open source software and learn new concepts and implementations of software and hardware."  
