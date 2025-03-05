@@ -157,7 +157,10 @@ projects:
         tagline: "POD (print on demand) store for my Diffusion Assisted Art."
       - title: Self-hosting infrastructure 
         link: "https://xedis.net"
-        tagline: "Small 6 node cluster of mismatched hardware running Proxmox and a variety of containers and VMs. I use this to test open source software and learn new concepts and implementations of software and hardware."  
+        tagline: "Small 6 node cluster of mismatched hardware running Proxmox and a variety of containers and VMs. I use this to test open source software and learn new concepts and implementations of software and hardware."    
+      - title: Resume Creation
+        link: "https://github.com/xedis/online-cv"
+        tagline: "This resume was created using a Jekyll theme and is hosted on GitHub Pages. I've made some modifications to the theme to better suit my needs. Expanded on several sections and made large structural changes to the printed structure."   
 oss:
     title: OSS Contributions
     intro: > 
