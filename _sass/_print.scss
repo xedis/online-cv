@@ -2,20 +2,19 @@
    @page {
       size: A4;
    }
+
    body {
       font-size: 9.35pt;
    }
 
    img.avatar {
-      // Remove the grayscale filter
       filter: none;
       -webkit-filter: none;
    }
 
    .main-wrapper .time {
       float: right;
-      // Keep original color instead of forcing white
-      -webkit-print-color-adjust: exact; 
+      -webkit-print-color-adjust: exact;
       print-color-adjust: exact;
    }
 
@@ -23,8 +22,8 @@
       position: static;
       float: right;
       width: 25%;
-      -webkit-print-color-adjust: exact; 
-      print-color-adjust: exact;
+      background-color: #2d2d2d; /* Dark sidebar background */
+      color: #ffffff; /* White text for sidebar */
    }
 
    .remove-container.container-block {
@@ -40,18 +39,14 @@
       column-gap: 10px;
 
       .level-bar-inner {
-         // Remove forced black color
          -webkit-print-color-adjust: exact;
          print-color-adjust: exact;
-         position: relative;
-         
          &::after {
             content: attr(data-level);
             position: absolute;
             right: 0;
             top: -20px;
-            // Remove forced black color
-            color: inherit;
+            color: #ffffff; /* White text for skill levels */
          }
       }
    }
@@ -59,7 +54,6 @@
    .fa-inverse,
    .fa-inverse:after,
    .fa-inverse:before {
-      // Remove forced black color
       -webkit-print-color-adjust: exact;
       print-color-adjust: exact;
    }
