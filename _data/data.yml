@@ -196,7 +196,7 @@ recommendations:
       - More on <a href= "https://linkedin.com/in/xchrisx/" target="_blank">LinkedIn</a>
   
 skills:
-    title: Skills | Years of Experience
+    title: Skills & Software | Years of Experience
 
     toolset: 
       - name: Data Recovery Techniques 
@@ -241,14 +241,14 @@ skills:
       - name: Incident Response 
         years: 3
         ## level: 65% 
-      - name: Creative Problem Solving 
-        years: 10
+      ##- name: Creative Problem Solving 
+      ##  years: 10
         ## level: 100% 
-      - name: Leading Teams by Example 
-        years: 10
+    ##  - name: Leading Teams by Example 
+    ##    years: 10
         ## level: 100%
-      - name: Sense of Humor 
-        years: 10
+    ##  - name: Sense of Humor 
+    ##    years: 10
         ## level: 100% 
       - name: Communication 
         years: 10
@@ -349,11 +349,17 @@ skills:
       - name: NIST 800-53 
         years: 5
         ## level: 40%
-      - name: MITRE ATT&CK & Atomic Red Team 
+      - name: MITRE Atomic Red Team 
         years: 5
         ## level: 80%
-      - name: MSSQL, MySQL/MariaDB, SQLite3 
+      - name: MSSQL  
         years: 6
+      - name: MySQL/MariaDB
+        years: 6
+      - name: PostgreSQL
+        years: 3
+      - name: SQLite
+        years: 3  
         ## level: 40%
       - name: Kubernetes (k8s) 
         years: 1
@@ -376,64 +382,64 @@ skills:
       - name: Umami Analytics
         years: 3
         ## level: 40%
-      - name: GitHub (Personal and Enterprise) 
+      - name: GitHub (Enterprise) 
         years: 5
         ## level: 65%
-      - name: Meta (FB and IG) 
+      - name: Meta 
         years: 5
         ## level: 45%
       - name: Squarespace 
         years: 1
         ## level: 40% 
-      - name: Over sharing ( Kiddddding)
-        years: 10 
+    ##  - name: Over sharing ( Kiddddding)
+     ##   years: 10 
         ## level: 20%
-      - name: Paranoia 
-        years: 3
+     ## - name: Paranoia 
+      ##  years: 3
         ## level: 10%
-      - name: ArchLinux (i use arch btw)
+      - name: ArchLinux 
         years: 8
         ## level: 90%
-      - name: Ability to Stay In My Lane
-        years: 1
+      ##- name: Ability to Stay In My Lane
+      ##  years: 1
         ## level: 0% 
       - name: Cloudtrail/CloudWatch 
         years: 5
         ## level: 90%
-      - name: Detective 
+      - name: AWS Detective 
         years: 3
         ## level: 65%
-      - name: Security Hub 
+      - name: AWS Security Hub 
         years: 3
         ## level: 60%
       - name: IAM 
         years: 3
         ## level: 90%
-      - name: IAM Identity Center 
+      - name: AWS Identity Center 
         years: 3
         ## level: 90%
-      - name: KMS 
+      - name: AWS KMS 
         years: 3
         ## level: 70%
       - name: Orca Security
         years: 1
         ## level: 40%
-      - name: Control Tower 
+      - name: AWS Control Tower 
         years: 3
         ## level: 60%
-      - name: Cloudformation 
+      - name: AWS Cloudformation 
         years: 2
         ## level: 60%
-      - name: Athena 
+      - name: AWS Athena 
         years: 3
         ## level: 70%
-      - name: Elastic Container Registry 
+      - name: AWS ECS 
         years: 1
         ## level: 90%
-      - name: Organizations 
+      - name: AWS Organizations 
         years: 1
         ## level: 90% 
-      - name: Config 
+      - name: AWS Config 
         years: 1
         ## level: 40%
       - name: RTSP 
@@ -466,8 +472,29 @@ skills:
         years: 5
       - name: Spear Phishing
         years: 5
-      - name: Playing in the dark
-        years: 15            
+    ##  - name: Playing in the dark
+    ##    years: 15
+      - name: Micros 3700
+        years: 10
+      - name: Micros E7
+        years: 10
+      - name: Micros 9700
+        years: 10
+      - name: Aloha
+        years: 10
+      - name: NCR Silver
+        years: 7
+      - name: Par Brink
+        years: 7
+      - name: Subway POS
+        years: 7
+      - name: Radiant RPOS
+        years: 7
+      - name: Positouch
+        years: 7
+      - name: Triport Printer Taps                  
+        years: 10
+      -   
 
 education:
     title: Education

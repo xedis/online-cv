@@ -14,8 +14,7 @@ h2,
 h3,
 h4,
 h5,
-h6,
-h7 {
+h6 {
   font-weight: 700;
 }
 
@@ -48,7 +47,7 @@ p {
   grid-column: span 3;
   order: $sidebar-order;
   background: $theme-color;
-  color: #b64f0bc9;
+  color: #52f2fdc9;
   a {
     color: #ffffff;
   }
