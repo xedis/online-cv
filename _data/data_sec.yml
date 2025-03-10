@@ -64,7 +64,7 @@ sidebar:
           link: https://steamcommunity.com/profiles/76561198379290620/
 
         - item: 3D Printing
-          link: https://makerworld.com 
+          link: null
 
         - item: Anime 
           link: https://crunchyroll.com     
@@ -73,12 +73,11 @@ career-profile:
     title: Career Profile
     summary: |
       - Chronically curious technology professional with 2 decades of experience specializing in enterprise security architecture, cloud infrastructure, integrating POS data and video to produce actionable alerting and reporting.
-      - Breaching silos and fostering collaboration between IT, Development, and Security teams to drive secure software development lifecycle (SDLC) and secure enterprise architecture.
-      - Bridging the gap between technical and non-technical teams to drive security awareness and incident response.
-      - Passionate about security research, threat hunting, and incident response, with a proven track record of discovering and remediating security vulnerabilities in production systems.
-      - Adept at leading teams by example, fostering a culture of innovation, and inspiring those around me to perform at their best.
-      - Committed to personal and professional growth, staying ahead of industry trends, and leveraging data-driven insights to inform strategy.
-      - Seeking opportunities to contribute to open source projects and collaborate with like-minded professionals to drive innovation and excellence.
+      - Most recently secured an AWS Organization consisting of a dozen AWS accounts and over 6 figures in monthly spend leveraging a combination of open source tools AWS security suite and a got some experience with Ora
+      - Monotony is my kryptonite. I thrive in environments where I can learn and grow. Where I can be challenged and challenge others.
+      - Frameworked security policy and executed security appropriate posture where there was none, across development, sales, support, customer sucess and operations teams, ensuring compliance with security policies championing security initiatives.
+      - Seeking any Security role available to leverage my experience in cloud security, risk management, and compliance frameworks.
+      - Open to other exciting IT, POS, Security related roles as well. Open to discuss opportunities that will evolve my career and provide new challenges.  
 extra-links:
     title: Linktree 
     url: https://links.xedis.me
