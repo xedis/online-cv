@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: chris@voidxedis.com
-    phone: 702 720 6067
+    phone: (702) 720-6067
     timezone: America/Los Angeles # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Full US Citizen
     website: https://xedis.net # Include the full website URL, including "http://" or "https://".
@@ -52,7 +52,7 @@ sidebar:
       title: Interests
       info:
         - item: Security Research & CTFs
-          link: https://dashy.xedis.net/home/ctf-toolkit
+          link: https://tools.xedis.net/
 
         - item: AI/ML Projects | 
           link: https://links.xedis.me
@@ -60,8 +60,8 @@ sidebar:
         - item: Family
           link: null 
         
-        - item: Gaming (Warframe, etc)
-          link: https://steamcommunity.com/profiles/76561198379290620/
+#       - item: Gaming (Warframe, etc)
+#         link: https://steamcommunity.com/profiles/76561198379290620/
 
         - item: 3D Printing
           link: https://makerworld.com 
@@ -241,14 +241,14 @@ skills:
       - name: Incident Response 
         years: 3
         ## level: 65% 
-      ##- name: Creative Problem Solving 
-      ##  years: 10
+        ## - name: Creative Problem Solving 
+        ## years: 10
         ## level: 100% 
-    ##  - name: Leading Teams by Example 
-    ##    years: 10
+        ## - name: Leading Teams by Example 
+        ## years: 10
         ## level: 100%
-    ##  - name: Sense of Humor 
-    ##    years: 10
+        ##- name: Sense of Humor 
+        ## years: 10
         ## level: 100% 
       - name: Communication 
         years: 10
@@ -391,17 +391,17 @@ skills:
       - name: Squarespace 
         years: 1
         ## level: 40% 
-    ##  - name: Over sharing ( Kiddddding)
-     ##   years: 10 
+        ## - name: Over sharing ( Kiddddding)
+        ## years: 10 
         ## level: 20%
-     ## - name: Paranoia 
-      ##  years: 3
+        ## - name: Paranoia 
+        ## years: 3
         ## level: 10%
       - name: ArchLinux 
         years: 8
         ## level: 90%
-      ##- name: Ability to Stay In My Lane
-      ##  years: 1
+        ## - name: Ability to Stay In My Lane
+        ## years: 1
         ## level: 0% 
       - name: Cloudtrail/CloudWatch 
         years: 5
@@ -472,8 +472,8 @@ skills:
         years: 5
       - name: Spear Phishing
         years: 5
-    ##  - name: Playing in the dark
-    ##    years: 15
+        ##- name: Playing in the dark
+        ## years: 15
       - name: Micros 3700
         years: 10
       - name: Micros E7
