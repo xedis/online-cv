@@ -40,7 +40,13 @@ sidebar:
           level: Native
 
         - idiom: Piglatin
-          level: Hobby 
+          level: Hobby
+
+        - idion: Developer
+          level: 1337
+
+        - idiom: Non-Developer
+          level: 100    
 
     interests:
       title: Interests
@@ -67,11 +73,11 @@ career-profile:
     title: Career Profile
     summary: |
       - Chronically curious technology professional with 2 decades of experience specializing in enterprise security architecture, cloud infrastructure, integrating POS data and video to produce actionable alerting and reporting.
-      - Most recently secured an AWS Organization consisting of a dozen AWS accounts and over 6 figures in monthly spend.
+      - Most recently secured an AWS Organization consisting of a dozen AWS accounts and over 6 figures in monthly spend leveraging a combination of open source tools AWS security suite and a got some experience with Ora
       - Monotony is my kryptonite. I thrive in environments where I can learn and grow. Where I can be challenged and challenge others.
       - Frameworked security policy and executed security appropriate posture where there was none, across development, sales, support, customer sucess and operations teams, ensuring compliance with security policies championing security initiatives.
       - Seeking any Security role available to leverage my experience in cloud security, risk management, and compliance frameworks.
-      - Open to other exciting IT, POS, Security related roles as well. Open to discuss opportunities that will evolve my career and provide new challenges.
+      - Open to other exciting IT, POS, Security related roles as well. Open to discuss opportunities that will evolve my career and provide new challenges.  
 extra-links:
     title: Linktree 
     url: https://links.xedis.me
