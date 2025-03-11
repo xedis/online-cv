@@ -4,7 +4,7 @@
    }
 
    body {
-      font-size: 14pt;
+      font-size: 8.5pt;
    }
 
    img.avatar {
@@ -24,6 +24,8 @@
       width: 35%;
       background-color: #2d2d2d; /* Dark sidebar background */
       color: #ffffff; /* White text for sidebar */
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
    }
 
    .remove-container.container-block {
