@@ -4,7 +4,7 @@
    }
 
    body {
-      font-size: 9.15pt;
+      font-size: 9.5pt;
    }
 
    img.avatar {
@@ -14,7 +14,7 @@
 
    .main-wrapper .time {
       float: right;
-     // -webkit-print-color-adjust: exact;
+      // -webkit-print-color-adjust: exact;
       print-color-adjust: exact;
    }
 
@@ -22,8 +22,10 @@
       position: static;
       float: right;
       width: 35%;
-      background-color: #2d2d2d; /* Dark sidebar background */
-      color: #ffffff; /* White text for sidebar */
+      // background-color: #2d2d2d; /* Dark sidebar background */
+      // color: #ffffff; /* White text for sidebar */
+      background-color: $theme-color; /* Use theme color */
+      color: $text-color; /* Use text color */
       -webkit-print-color-adjust: exact;
       print-color-adjust: exact;
    }
@@ -48,7 +50,8 @@
             position: absolute;
             right: 0;
             top: -20px;
-            color: #ffffff; /* White text for skill levels */
+            // color: #ffffff; /* White text for skill levels */
+            color: $text-color; /* Use text color */
          }
       }
    }

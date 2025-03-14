@@ -74,7 +74,7 @@ career-profile:
     summary: |
        - Seeking a role where my technical versatility and security expertise can be leveraged. Proven ability to adapt and learn quickly to meet organizational needs.
        - Open to new challenges and committed to long-term growth within a team making a positive impact.
-       - You can continue to look at resumes, but I'm the one you want to hire.
+       - __You can continue to look at resumes, but I'm the one you want to hire__.
 extra-links:
     title: Linktree 
     url: https://links.xedis.me
@@ -87,7 +87,7 @@ experiences:
         details: |
           - Led production security over **200,000** devices representing **50M** in annual recurring revenue(ARR); software upgrades & security compliance within budget.
           - Conducted compliance assessments against the **CIS Controls**, **PCI** & **ISO 27001** series.
-          - Collaborated w/IT Infrastructure & Development teams to secure enterprise architecture & software development lifecycle (SDLC), inc. **CI/CD pipeline**.
+          - Collaborated w/IT Infrastructure & Development teams to secure enterprise architecture & software development lifecycle (SDLC); **CI/CD pipeline**.
           - Designed a robust 5-year Security plan that was integrated into the development roadmap.
           - Established secure non-technical communication channels to enhance security awareness & incident response.
           - Managed & resolved security incidents using **CNAPP** (OrcaSecurity, AWS) & forensic tools (**Sleuthkit**, **FTK Imager**, **Autopsy**).
@@ -107,7 +107,6 @@ experiences:
           - Trainer and Sales SME  w/clients & Cloud POS Vendor Relationships & integrations. 
           - Managed lifecycle of 200,000 devices, making the case for budget spend & security improvements.
           - Worked w/3rd party vendors on hardware requirements, ip camera specifications & quality control saving the company over **1M** in hardware costs. 
-          - Continued these responsibilities while taking on the role of Production Security Architect. inc. being cross departmental mentor for support representatives providing guidance & collaboration interdepartmentally.
       - role: Systems Analyst
         time: March 2017 - March 2018
         company: DTiQ Technologies, Las Vegas
@@ -122,12 +121,12 @@ experiences:
         company: DTiQ Technologies, Las Vegas
         details: |
            - **Ground up installation** of software & cameras performing all remote configurations while field tech was on site.
-           - **Integrated every POS Solution on DTT's integration list inc. but not limited to: **SubwayPOS**, **Aloha**, **Radiant RPOS**, **Micros3700**, **Micros E7**, **Micros 9700**, **Triport Printer Taps**, **VSI Capture Boxes**, **Positouch**    
+           - **Integrated every POS Solution on DTT's integration list; but not limited to: **SubwayPOS**, **Aloha**, **Radiant RPOS**, **Micros3700**, **Micros E7**, **Micros 9700**, **Triport Printer Taps**, **VSI Capture Boxes**, **Positouch**    
       - role: CSR-I Residential Support
         time: August 2012 - August 2013
         company: Cox Communications, Las Vegas
         details: |
-          - Provided **technical support** for residential customers, inc. troubleshooting internet, phone & cable services.
+          - Provided **technical support** for residential customersp; troubleshooting internet, phone & cable services.
           - Assisted customers w/billing inquiries & account management.
           - Resolved customer issues in a timely & professional manner.
       - role: Hospitality Network - Cox Business - Temp
@@ -151,7 +150,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Trying to stay busy while still learning new things ever exp&ing my knowledge base.  
+      Trying to stay busy while still learning new things ever expanding my knowledge base.  
     assignments:
       - title: Dashy
         link: "https://xedis.net"
@@ -171,7 +170,7 @@ oss:
        I contribute to a single open source project, but am constantly looking for opportunities to contribute to more.
     contributions:
       - title: SD.Next
-        link: "https://github.com/vladm&ic/automatic"
+        link: "https://github.com/vladmandic/automatic"
         tagline: |
          "All-in-one for AI generative image/video generation. I contribute to the project by providing feedback, testing & provide some support on the discord server. If you check the commits, you'll see my name on a tiny one..." 
          "Technologies: Torch/PyTorch, Tensorflow, Diffusers, Python, Gradio, JS, HTML, CSS, Docker to name a few. Leveraging several image & video generation models to create a single platform for all your generative needs."
