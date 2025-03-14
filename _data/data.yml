@@ -27,7 +27,7 @@ sidebar:
     twitter: '@_xedis_'
     stack-overflow: # Number/Username, e.g. 123456/al&oe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-al&oe
+    goodreads: # Number-Username, e.g. 123456-al&oe/usr/share/jellyfin/web/log
     mastodon: https://infosec.exchange/@xedis # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
@@ -70,11 +70,11 @@ sidebar:
           link: https://crunchyroll.com     
 
 career-profile:
-    title: Career Profile
+    title: IF YOU READ NOTHING ELSE, READ THIS
     summary: |
-      - Chronically curious technology professional w/2 decades of experience specializing in enterprise security architecture, cloud infrastructure, integrating POS data & video to produce actionable alerting & reporting.
-      - Breaching silos & fostering collaboration between IT, Development & Security teams to drive secure software development lifecycle (SDLC) & secure enterprise architecture.
-      - Bridging the gap between technical & non-technical teams to drive security awareness & incident response communicating technical concepts to non-technical stakeholders.
+       - Seeking a role where my technical versatility and security expertise can be leveraged. Proven ability to adapt and learn quickly to meet organizational needs.
+       - Open to new challenges and committed to long-term growth within a team making a positive impact.
+       - You can continue to look at resumes, but I'm the one you want to hire.
 extra-links:
     title: Linktree 
     url: https://links.xedis.me
@@ -172,7 +172,10 @@ oss:
     contributions:
       - title: SD.Next
         link: "https://github.com/vladm&ic/automatic"
-        tagline: "All-in-one for AI generative image/video generation. I contribute to the project by providing feedback, testing & provide some support on the discord server. If you check the commits, you'll see my name on a tiny one..." 
+        tagline: |
+         "All-in-one for AI generative image/video generation. I contribute to the project by providing feedback, testing & provide some support on the discord server. If you check the commits, you'll see my name on a tiny one..." 
+         "Technologies: Torch/PyTorch, Tensorflow, Diffusers, Python, Gradio, JS, HTML, CSS, Docker to name a few. Leveraging several image & video generation models to create a single platform for all your generative needs."
+
 recommendations:
   title: Recommendations
   list:
