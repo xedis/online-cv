@@ -87,13 +87,13 @@ experiences:
         details: |
           - Led production security over **200,000** devices representing **50M** in annual recurring revenue(ARR); software upgrades & security compliance within budget.
           - Conducted compliance assessments against the **CIS Controls**, **PCI** & **ISO 27001** series.
-          - Collaborated w/IT Infrastructure & Development teams to redefine the software development lifecycle (SDLC); **CI/CD pipeline**, for 5 development sub-teams.
+          - Collaborated w/Production & Development teams to redefine the software development lifecycle (SDLC); **CI/CD pipeline**, for **5 development sub-teams**.
           - Designed a robust 5-year Security plan that was integrated into the development roadmap.
-          - Built out a org wide IR communication channel bringing 6 departments to a single process to enhance security awareness & incident response.
-          - Identified attack vectors with a 100% success rate leveraging forensic tools (**Sleuthkit**, **FTK Imager**, **Autopsy**) during incident response.
-          - Scoped & implemented 7 node cluster running *open source* **SIEM** solution (Wazuh) to monitor production systems & track vulnerability patching.
+          - Built out a org wide IR communication channel bringing **6** departments to a single process to enhance security awareness & incident response.
+          - Identified **attack vectors with a 100% success rate** leveraging forensic tools (**Sleuthkit**, **FTK Imager**, **Autopsy**) during incident response.
+          - Scoped & implemented **7 node cluster** running *open source* **SIEM** solution (Wazuh) to monitor production systems & track vulnerability patching.
           - Resolved critical long standing vulnerabilities in the production environment **improving AWS Security Hub score by 60%**.
-          - Initiated 8 security projects & made the business case compelling for C-Suite.
+          - Initiated **8 security projects** & made the business case compelling for C-Suite.
       - role: Advanced Technology Manager
         time: March 2018 - August 2024
         company: DTiQ Technologies, Las Vegas
@@ -102,24 +102,24 @@ experiences:
           - Developed roadmaps, optimized processes & conducted security audits.
           - Led **Quarterly Business Reviews** & platform approvals w/huge brands, impacting **$20M ARR**.
           - Well versed in escalations, fostering cross-department collaboration, with a 100% success rate. 
-          - Led the Advanced Technology Group a team of 5 engineers.
-          - Trainer and Sales SME  w/clients & Cloud POS Vendor Relationships & integrations for over 30 different POS systems. 
-          - Managed lifecycle of 200,000 devices, making the case for budget spend & security improvements.
-          - Worked w/3rd party vendors on hardware requirements, ip camera specifications & quality control saving the company over **1M** in hardware costs. 
+          - **Led** the Advanced Technology Group a **team of 5 engineers**.
+          - Trainer and Sales SME  w/clients & Cloud POS Vendor Relationships & integrations. **(30+ POS systems)**
+          - Managed lifecycle of **200,000 devices**, making the case for budget spend & security improvements.
+          - Worked w/3rd party vendors on hardware requirements, IP camera specifications & quality control saving the company over **1M** in hardware costs. 
       - role: Systems Analyst
         time: March 2017 - March 2018
         company: DTiQ Technologies, Las Vegas
         details: |
           - Created automation solutions to enhance & improve processes, saving over **2,000** hours in manual support hours the first year alone. 
-          - Generated over 30 knowledgebase articles utilized by both technical & non-technical departments.
-          - Reduced support department call times by 15% on average following training classes I designed and led. 
+          - Generated **over 30 knowledgebase** articles utilized by both technical & non-technical departments.
+          - **Reduced** support department call times by **15%** on average following training classes I designed and led. 
           - Resolved critical **SSL cert issue** w/every DVR access page that was flagging PCI Scans ran by customers.
           - Collaborated w/Qualys to add a global exception for **GeoVision HTTP Server SSL Certs** to prevent false positives, **resolving an issue that had been ongoing for 5 years.**
       - role: Post Install Support Lead
         time: December 2013 - March 2017
         company: DTiQ Technologies, Las Vegas
         details: |
-           - **Ground up installation** of software & cameras; juggling 5-10 installs a day. 
+           - **Ground up installation** of software & cameras; juggling **5-30 a day**. 
            - **Integrated every POS Solution on DTT's integration list; but not limited to: **SubwayPOS**, **Aloha**, **Radiant RPOS**, **Micros3700**, **Micros E7**, **Micros 9700**, **Triport Printer Taps**, **VSI Capture Boxes**, **Positouch**    
       - role: CSR-I Residential Support
         time: August 2012 - August 2013
@@ -127,7 +127,7 @@ experiences:
         details: |
           - Provided **technical support** for residential customers; troubleshooting internet, phone & cable services.
           - **Reduced** customer bills by **10%** while **increasing services by 20%.**
-          - QA recognized for **100% call quality** & used as a training tool for new hires.
+          - Call QC team recognized for **100% call quality** & used as a training example for new hires.
       - role: Hospitality Network - Cox Business - Temp
         time: January 2010- August 2012
         company: Cox Communications, Las Vegas
