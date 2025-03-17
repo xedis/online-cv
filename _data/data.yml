@@ -21,14 +21,14 @@ sidebar:
     linkedin: xchrisx
     xing: 
     github: xedis
-    telegram: xxedis
+#    telegram: xxedis
     gitlab:
     bitbucket:
-    twitter: '@_xedis_'
+#    twitter: '@_xedis_'
     stack-overflow: # Number/Username, e.g. 123456/al&oe
     codewars:
     goodreads: # Number-Username, e.g. 123456-al&oe/usr/share/jellyfin/web/log
-    mastodon: https://infosec.exchange/@xedis # Please include your full Mastodon link here.
+#    mastodon: https://infosec.exchange/@xedis # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
@@ -39,14 +39,14 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: Piglatin
-          level: Hobby
-
-        - idiom: 10xDevSpeak
-          level: 1337
-
-        - idiom: Non-Developer
-          level: 100    
+#        - idiom: Piglatin
+#          level: Hobby
+#
+#        - idiom: 10xDevSpeak
+#          level: 1337
+#
+#        - idiom: Non-Developer
+#          level: 100    
 
     interests:
       title: Interests
@@ -57,23 +57,25 @@ sidebar:
         - item: AI/ML Projects | 
           link: https://links.xedis.me
 
-        - item: Family
-          link: null 
+#        - item: Family
+#          link: null 
         
 #       - item: Gaming (Warframe, etc)
 #         link: https://steamcommunity.com/profiles/76561198379290620/
 
-        - item: 3D Printing
-          link: https://makerworld.com 
-
-        - item: Anime 
-          link: https://crunchyroll.com     
+##        - item: 3D Printing
+##          link: https://makerworld.com 
+##
+##        - item: Anime 
+##          link: https://crunchyroll.com     
 
 career-profile:
-    title: TLDR; Profile
+    title: Summary || Why Hire Me?
     summary: |
-       - Seeking a role where my technical versatility and security expertise can be leveraged. Proven ability to adapt and learn quickly to meet organizational needs.
-       - Open to new challenges and committed to long-term growth within a team making a positive impact.
+       - Tech is easy, there is just a lot of it. I've spent the better part of a decade in the trenches of IT & Security. 
+       - I've been through acquistions, migrations, & have been the go-to for the C-Suite for technical advice.
+       - I've led teams, built out security programs, & have been the one to call when things go sideways.
+       - I'm a self-starter, always looking for the next challenge, & have a passion for learning new things.
        - __You can continue to look at resumes, but I'm the one you want to hire__.
 extra-links:
     title: Linktree 
@@ -101,7 +103,7 @@ experiences:
           - Advised & reported to C-suite on technical issues during the migration of **50,000+** edge devices post-acquisition & led platform onboarding.
           - Developed roadmaps, optimized processes & conducted security audits.
           - Led **Quarterly Business Reviews** & platform approvals w/huge brands, impacting **$20M ARR**.
-          - Well versed in escalations, fostering cross-department collaboration, with a 100% success rate. 
+          - Well versed in escalations, fostering cross-department collaboration, with a **95% success rate**. 
           - **Led** the Advanced Technology Group a **team of 5 engineers**.
           - Trainer and Sales SME  w/clients & Cloud POS Vendor Relationships & integrations. **(30+ POS systems)**
           - Managed lifecycle of **200,000 devices**, making the case for budget spend & security improvements.
@@ -128,67 +130,70 @@ experiences:
           - Provided **technical support** for residential customers; troubleshooting internet, phone & cable services.
           - **Reduced** customer bills by **10%** while **increasing services by 20%.**
           - Call QC team recognized for **100% call quality** & used as a training example for new hires.
-      - role: Hospitality Network - Cox Business - Temp
-        time: January 2010- August 2012
-        company: Cox Communications, Las Vegas
-        details: |
-          - Inbound call center for hotel guests at the **MGM Grand**, **Mandalay Bay & Luxor** & several other properties.
-          - Worked at a **technical level greater than my role** call for, resolving issues rather than just creating dispatch tickets, with an 80% single contact resolution rate.
-          - Survived 8 rounds of layoffs before being offered a full time position.
-      - role: Owner
-        time: January 2005 - August 2013
-        company: Brimstone Tech, Las Vegas
-        details: |
-          - Provided **computer repair & maintenance services** to roughly 60 clients; 1 business with 10 locations. 
-          - Installed & configured software & hardware for clients.
-          - Provided discounted services to elderly & disabled clients.
+##      - role: Hospitality Network - Cox Business - Temp
+##        time: January 2010- August 2012
+##        company: Cox Communications, Las Vegas
+##        details: |
+##          - Inbound call center for hotel guests at the **MGM Grand**, **Mandalay Bay & Luxor** & several other properties.
+##          - Worked at a **technical level greater than my role** call for, resolving issues rather than just creating dispatch tickets, with an 80% single contact resolution rate.
+##          - Survived 8 rounds of layoffs before being offered a full time position.
+##      - role: Owner
+##        time: January 2005 - August 2013
+##        company: Brimstone Tech, Las Vegas
+##        details: |
+##          - Provided **computer repair & maintenance services** to roughly 60 clients; 1 business with 10 locations. 
+##          - Installed & configured software & hardware for clients.
+##          - Provided discounted services to elderly & disabled clients.
 
 projects:
     title: Projects
-    intro: >
-      Trying to stay busy while still learning new things ever expanding my knowledge base.  
+    intro: 
+      ##Trying to stay busy while still learning new things ever expanding my knowledge base.  
     assignments:
-      - title: Dashy
-        link: "https://xedis.net"
-        tagline: "Self-hosted Dashboard to all my projects & project links. Running on my proxmox cluster in my server rack behind my desk." 
-      - title: VoidXedis
-        link: "https://voidxedis.com"
-        tagline: "POD (print on demand) store for my Diffusion Assisted Art. Recently taken down for construction of a self-hosted solution."
-      - title: Self-hosting infrastructure 
-        link: "https://xedis.net"
-        tagline: "Small 6 node cluster of mismatched hardware running Proxmox & a variety of containers/VMs. I use this to test open source software & learn new concepts, implementations of software/hardware."  
+##      - title: Dashy
+##        link: "https://xedis.net"
+##        tagline: "Self-hosted Dashboard to all my projects & project links. Running on my proxmox cluster in my server rack behind my desk." 
+##      - title: VoidXedis
+##        link: "https://voidxedis.com"
+##        tagline: "POD (print on demand) store for my Diffusion Assisted Art. Recently taken down for construction of a self-hosted solution."
+##      - title: Self-hosting infrastructure 
+##        link: "https://xedis.net"
+##        tagline: "Small 6 node cluster of mismatched hardware running Proxmox & a variety of containers/VMs. I use this to test open source software & learn new concepts, implementations of software/hardware."  
       - title: AI/ML Self-Driven Exploration
         link: "https://links.xedis.me"
-        tagline: "Lately I've been locally running custom LLMs (Large Language Models) & training custom embeddings for Meta's Segment Anything (SAM) model which can identify company hardware tangled within a rat's nest in a customer environment."
+        tagline: "Locally running custom LLMs (Large Language Models) & training custom embeddings for various models, including but not limited to: for Meta's Segment Anything (SAM) model which can identify company hardware tangled within a 'rat's nest' in a customer environment."
+      - title: Automated Honeypot Deployment & AI Payload Processing
+        link: "https://links.xedis.me"
+        tagline: "Automated deployment of honeypots across multiple cloud providers & on-premises. Processing of payloads for analysis & threat intelligence. Something to keep me busy while job hunting."
 oss:
     title: OSS Contributions
-    intro: > 
-       I contribute to a single open source project, but am constantly looking for opportunities to contribute to more.
+    intro: 
+##  I contribute to a single open source project, but am constantly looking for opportunities to contribute to more.
     contributions:
       - title: SD.Next
         link: "https://github.com/vladmandic/automatic"
         tagline: |
-         "All-in-one for AI generative image/video generation. I contribute to the project by providing feedback, testing & provide some support on the discord server. If you check the commits, you'll see my name on a tiny one..." 
-         "Technologies: Torch/PyTorch, Tensorflow, Diffusers, Python, Gradio, JS, HTML, CSS, Docker to name a few. Leveraging several image & video generation models to create a single platform for all your generative needs."
+         All-in-one for AI generative image/video generation. I contribute to the project by providing feedback, testing & provide some support on the discord server.
+         Technologies: Torch/PyTorch, Tensorflow, Diffusers, Python, Gradio, JS, HTML, CSS, Docker to name a few. 
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Andrew Folek
-    email: afolek@dtiq.com
-    phone: 
-    role: Senior Director of IT & Production @ DTiQ
-    recommendation: | 
-      -....... His eagerness to learn & openness to new challenges have been hallmarks of his career, enabling his transition from a security enthusiast to a true professional....... his technical expertise, problem-solving mindset & collaborative approach make him an invaluable asset to any organization.  I highly recommend him to anyone seeking a security expert who combines deep technical knowledge w/an unwavering commitment to excellence.
-  - person: Ryan Plescia
-    email: <a href="https://linkedin.com/in/rplescia" target="_blank">LinkedIn</a>
-    phone: 
-    role: Vice President of Product & Marketing @ DTiQ
-    recommendation: | 
-      -....... creativity & dedication left a lasting impression on me. ....proactive approach to problem-solving & his talent for working seamlessly across departments......ability to bring teams together & execute initiatives flawlessly highlights his value as a true team player.....staying ahead of industry trends & leveraging data-driven insights to inform strategy demonstrates his forward-thinking mindset & adaptability in a fast-changing environment......fosters an environment where innovative ideas thrive & inspires those around him to perform at their best.....dedication to both personal & professional growth....invaluable asset to any organization.
-    
-      - More on <a href= "https://linkedin.com/in/xchrisx/" target="_blank">LinkedIn</a>
-  
+##recommendations:
+##  title: Recommendations
+##  list:
+##  - person: Andrew Folek
+##    email: afolek@dtiq.com
+##    phone: 
+##    role: Senior Director of IT & Production @ DTiQ
+##    recommendation: | 
+##      -....... His eagerness to learn & openness to new challenges have been hallmarks of his career, enabling his transition from a security enthusiast to a true professional....... his technical expertise, problem-solving mindset & collaborative approach make him an invaluable asset to any organization.  I highly recommend him to anyone seeking a security expert who combines deep technical knowledge w/an unwavering commitment to excellence.
+##  - person: Ryan Plescia
+##    email: <a href="https://linkedin.com/in/rplescia" target="_blank">LinkedIn</a>
+##    phone: 
+##    role: Vice President of Product & Marketing @ DTiQ
+##    recommendation: | 
+##      -....... creativity & dedication left a lasting impression on me. ....proactive approach to problem-solving & his talent for working seamlessly across departments......ability to bring teams together & execute initiatives flawlessly highlights his value as a true team player.....staying ahead of industry trends & leveraging data-driven insights to inform strategy demonstrates his forward-thinking mindset & adaptability in a fast-changing environment......fosters an environment where innovative ideas thrive & inspires those around him to perform at their best.....dedication to both personal & professional growth....invaluable asset to any organization.
+##    
+##      - More on <a href= "https://linkedin.com/in/xchrisx/" target="_blank">LinkedIn</a>
+##  
 skills:
     title: Skills & Software | Years of Experience
 
@@ -259,26 +264,26 @@ skills:
       - name: Wireshark 
         years: 10
         ## level: 80%
-      - name: ZAP 
+      - name: ZAP & Burpsuite
         years: 5
         ## level: 80%
-      - name: Burpsuite 
-        years: 3
+        ##- name:  Burpsuite
+        ##  years: 3
         ## level: 40%
-      - name: Honeypots 
+      - name: Honeypots & Canarytokens
         years: 4
         ## level: 80%
-      - name: Canarytokens 
-        years: 3
+        ##- name: Canarytokens
+        ##  years: 3
         ## level: 80%
-      - name: Static Analysis 
+      - name: Static & Dynamic Analysis 
         years: 3
         ## level: 40%
-      - name: Dynamic Analysis 
-        years: 3
+        ##- name: Dynamic Analysis 
+        ##  years: 3
         ## level: 40%
-      - name: Code Review 
-        years: 2
+        ##- name: Code Review 
+        ##  years: 2
         ## level: 40%
       - name: Secure Code Practices 
         years: 2
@@ -289,8 +294,8 @@ skills:
       - name: Trufflehog 
         years: 4
         ## level: 80%
-      - name: Dependabot 
-        years: 3
+        ##- name: Dependabot 
+        ##  years: 3
         ## level: 80%      
       - name: ProxMox 
         years: 7
@@ -358,7 +363,7 @@ skills:
       - name: Kubernetes (k8s) 
         years: 1
         ## level: 40%
-      - name: AWS
+      - name: AWS Technologies
         years: 5
         ## level: 50%
       - name: Google Cloud
@@ -400,41 +405,41 @@ skills:
       - name: Cloudtrail/CloudWatch 
         years: 5
         ## level: 90%
-      - name: AWS Detective 
+        ## - name: AWS Detective 
         years: 3
         ## level: 65%
-      - name: AWS Security Hub 
-        years: 3
+        ## - name: AWS Security Hub 
+        ## years: 3
         ## level: 60%
       - name: IAM 
         years: 3
         ## level: 90%
-      - name: AWS Identity Center 
-        years: 3
+        ## - name: AWS Identity Center 
+        ##years: 3
         ## level: 90%
-      - name: AWS KMS 
-        years: 3
+        ## - name: AWS KMS 
+        ## years: 3
         ## level: 70%
       - name: Orca Security
         years: 1
         ## level: 40%
-      - name: AWS Control Tower 
-        years: 3
+        ## - name: AWS Control Tower 
+        ## years: 3
         ## level: 60%
-      - name: AWS Cloudformation 
-        years: 2
+        ## - name: AWS Cloudformation 
+        ## years: 2
         ## level: 60%
-      - name: AWS Athena 
-        years: 3
+        ## - name: AWS Athena 
+        ##  years: 3
         ## level: 70%
-      - name: AWS ECS 
-        years: 1
+        ## - name: AWS ECS 
+        ## years: 1
         ## level: 90%
-      - name: AWS Organizations 
-        years: 1
+        ## - name: AWS Organizations 
+        ##years: 1
         ## level: 90% 
-      - name: AWS Config 
-        years: 1
+        ## - name: AWS Config 
+        ## years: 1
         ## level: 40%
       - name: RTSP &  Onvif
         years: 10
@@ -452,10 +457,10 @@ skills:
         years: 10
       - name: Printer Taps
         years: 10
-      - name: DB9/RS232 Serial
-        years: 10
-      - name: DB25 Parallel
-        years: 10
+        ##- name: DB9/RS232 Serial
+        ##  years: 10
+        ##- name: DB25 Parallel
+        ##  years: 10
       - name: Bruteforce Techniques
         years: 5
       - name: Social Engineering
