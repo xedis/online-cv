@@ -75,7 +75,7 @@ career-profile:
        - Tech is easy, there is just a lot of it. I've spent the better part of a decade in the trenches of IT & Security. 
        - I've been through acquistions, migrations, & have been the go-to for the C-Suite for technical advice.
        - I've led teams, built out security programs, & have been the one to call when things go sideways.
-       - I'm a self-starter, always looking for the next challenge, & have a passion for learning new things.
+       - I'm a self-starter, always looking for the next challenge, & I'm not afraid to ask for help when I need it. FIxing broken things as I find them, always collaborating with others to find the best solution.
        - __You can continue to look at resumes, but I'm the one you want to hire__.
 extra-links:
     title: Linktree 
@@ -87,13 +87,13 @@ experiences:
         time: December 2022 - August 2024
         company: DTiQ Technologies, Las Vegas
         details: |
-          - Led production security over **200,000** devices representing **50M** in annual recurring revenue(ARR); software upgrades & security compliance within budget.
-          - Conducted compliance assessments against the **CIS Controls**, **PCI** & **ISO 27001** series.
+          - Spearheaded Production Security over 200,000 devices = 50M in annual recurring revenue (ARR) implementing CIS Controls, PCI & ISO 27001 series as frameworks 
+          - Including, but not limited to **7 node cluster** running *open source* **SIEM** solution (Wazuh) leveraging AWS EC2 and Cloudformation. 
+          - Wrote, tested, deployed to over 30,000 servers Wazuh installation and config packages. 
           - Collaborated w/Production & Development teams to redefine the software development lifecycle (SDLC); **CI/CD pipeline**, for **5 development sub-teams**.
           - Designed a robust 5-year Security plan that was integrated into the development roadmap.
           - Built out a org wide IR communication channel bringing **6** departments to a single process to enhance security awareness & incident response.
-          - Identified **attack vectors with a 100% success rate** leveraging forensic tools (**Sleuthkit**, **FTK Imager**, **Autopsy**) during incident response.
-          - Scoped & implemented **7 node cluster** running *open source* **SIEM** solution (Wazuh) to monitor production systems & track vulnerability patching.
+          - Identified **attack vectors with a 100% success rate** leveraging forensic tools (*Sleuthkit*, *FTK Imager*, *Autopsy*) during incident response.
           - Resolved critical long standing vulnerabilities in the production environment **improving AWS Security Hub score by 60%**.
           - Initiated **8 security projects** & made the business case compelling for C-Suite.
       - role: Advanced Technology Manager
@@ -112,11 +112,10 @@ experiences:
         time: March 2017 - March 2018
         company: DTiQ Technologies, Las Vegas
         details: |
-          - Created automation solutions to enhance & improve processes, saving over **2,000** hours in manual support hours the first year alone. 
-          - Generated **over 30 knowledgebase** articles utilized by both technical & non-technical departments.
-          - **Reduced** support department call times by **15%** on average following training classes I designed and led. 
-          - Resolved critical **SSL cert issue** w/every DVR access page that was flagging PCI Scans ran by customers.
-          - Collaborated w/Qualys to add a global exception for **GeoVision HTTP Server SSL Certs** to prevent false positives, **resolving an issue that had been ongoing for 5 years.**
+         - Created automation solutions to enhance & improve processes, **saving over 2,000 hours** in manual support hours the first year alone.
+         - Generated **over 30 knowledgebase articles** utilized by both technical & non-technical departments.
+         - **Reduced support department call times by 15%** on average following training classes I designed and led.
+         - Resolved critical SSL cert issues across **15,000 devices** restoring company *PCI Compliance Status*
       - role: Post Install Support Lead
         time: December 2013 - March 2017
         company: DTiQ Technologies, Las Vegas
@@ -129,7 +128,7 @@ experiences:
         details: |
           - Provided **technical support** for residential customers; troubleshooting internet, phone & cable services.
           - **Reduced** customer bills by **10%** while **increasing services by 20%.**
-          - Call QC team recognized for **100% call quality** & used as a training example for new hires.
+          - Cox QC team recognition for **100% call quality** & used as a training example for new hires.
 ##      - role: Hospitality Network - Cox Business - Temp
 ##        time: January 2010- August 2012
 ##        company: Cox Communications, Las Vegas
@@ -242,7 +241,7 @@ skills:
         ## level: 65% 
         ## - name: Creative Problem Solving 
         ## years: 10
-        ## level: 100% 
+        ## level: 100% ﻿
         ## - name: Leading Teams by Example 
         ## years: 10
         ## level: 100%
@@ -505,7 +504,7 @@ skills:
 education:
     title: Education
     info:
-      - degree: HS Diploma, Some College Credits
+      - degree: G.E.D. & College Courses
         university: College of Southern Nevada
         time: 2002 - 2003
         details: |
