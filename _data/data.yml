@@ -31,7 +31,7 @@ sidebar:
 #    mastodon: https://infosec.exchange/@xedis # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: assets/Chris Xedis - IT_Security_Leader-v5L.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Languages
@@ -73,9 +73,9 @@ career-profile:
     title: Summary || Why Hire Me?
     summary: |
        - Tech is easy, there is just a lot of it. I've spent the better part of a decade in the trenches of IT & Security. 
-       - I've been through acquistions, migrations, & have been the go-to for the C-Suite for technical advice.
+       - I've been through acquisitions, migrations, & have been the go-to for the C-Suite for technical advice.
        - I've led teams, built out security programs, & have been the one to call when things go sideways.
-       - I'm a self-starter, always looking for the next challenge. I do not idle well yet hate repitition.
+       - I'm a self-starter, always looking for the next challenge. I do not idle well yet hate repetition.
 extra-links:
     title: Linktree 
     url: https://links.xedis.me
