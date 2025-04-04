@@ -21,14 +21,14 @@ sidebar:
     linkedin: xchrisx
     xing: 
     github: xedis
-#    telegram: xxedis
+    telegram: xxedis
     gitlab:
     bitbucket:
-#    twitter: '@_xedis_'
+    twitter: '@_xedis_'
     stack-overflow: # Number/Username, e.g. 123456/al&oe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-al&oe/usr/share/jellyfin/web/log
-#    mastodon: https://infosec.exchange/@xedis # Please include your full Mastodon link here.
+    goodreads: # Number-Username, e.g. 
+    mastodon: https://infosec.exchange/@xedis # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
     pdf: assets/Chris Xedis - IT_Security_Leader-v5L.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
@@ -120,28 +120,27 @@ experiences:
         company: DTiQ Technologies, Las Vegas
         details: |
            - **Ground up installation** of software & cameras; juggling **5-30 a day**. 
-           - **Integrated every POS Solution on DTT's integration list; but not limited to: **SubwayPOS**, **Aloha**, **Radiant RPOS**, **Micros3700**, **Micros E7**, **Micros 9700**, **Triport Printer Taps**, **VSI Capture Boxes**, **Positouch**    
+           - Integrated every POS Solution on DTT's integration list; but not limited to: **SubwayPOS**, **Aloha**, **Radiant RPOS**, **Micros3700**, **Micros E7**, **Micros 9700**, **Triport Printer Taps**, **VSI Capture Boxes**, **Positouch**    
       - role: CSR-I Residential Support
         time: August 2012 - August 2013
         company: Cox Communications, Las Vegas
         details: |
-          - Provided **technical support** for residential customers; troubleshooting internet, phone & cable services.
+          - Provided technical support for residential customers; troubleshooting internet, phone & cable services. **QA rated 100% call quality**; used for training..
           - **Reduced** customer bills by **10%** while **increasing services by 20%.**
-          - Cox QC team recognition for **100% call quality** & used as a training example for new hires.
-##      - role: Hospitality Network - Cox Business - Temp
-##        time: January 2010- August 2012
-##        company: Cox Communications, Las Vegas
-##        details: |
-##          - Inbound call center for hotel guests at the **MGM Grand**, **Mandalay Bay & Luxor** & several other properties.
-##          - Worked at a **technical level greater than my role** call for, resolving issues rather than just creating dispatch tickets, with an 80% single contact resolution rate.
-##          - Survived 8 rounds of layoffs before being offered a full time position.
-##      - role: Owner
-##        time: January 2005 - August 2013
-##        company: Brimstone Tech, Las Vegas
-##        details: |
-##          - Provided **computer repair & maintenance services** to roughly 60 clients; 1 business with 10 locations. 
-##          - Installed & configured software & hardware for clients.
-##          - Provided discounted services to elderly & disabled clients.
+      - role: Hospitality Network - Cox Business - Temp
+        time: January 2010- August 2012
+        company: Cox Communications, Las Vegas
+        details: |
+          - Inbound call center for hotel guests at the **MGM Grand**, **Mandalay Bay & Luxor** & several other properties.
+          - Worked at a **technical level greater than my role** call for, resolving issues rather than just creating dispatch tickets, with an 80% single contact resolution rate.
+          - Survived 8 rounds of layoffs before being offered a full time position.
+      - role: Owner
+        time: January 2005 - August 2013
+        company: Brimstone Tech, Las Vegas
+        details: |
+          - Provided **computer repair & maintenance services** to roughly 60 clients; 1 business with 10 locations. 
+          - Installed & configured software & hardware for clients.
+          - Provided discounted services to elderly & disabled clients.
 
 projects:
     title: Projects
@@ -174,24 +173,24 @@ oss:
          All-in-one for AI generative image/video generation. I contribute to the project by providing feedback, testing & provide some support on the discord server.
          Technologies: Torch/PyTorch, Tensorflow, Diffusers, Python, Gradio, JS, HTML, CSS, Docker to name a few. 
 
-##recommendations:
-##  title: Recommendations
-##  list:
-##  - person: Andrew Folek
-##    email: afolek@dtiq.com
-##    phone: 
-##    role: Senior Director of IT & Production @ DTiQ
-##    recommendation: | 
-##      -....... His eagerness to learn & openness to new challenges have been hallmarks of his career, enabling his transition from a security enthusiast to a true professional....... his technical expertise, problem-solving mindset & collaborative approach make him an invaluable asset to any organization.  I highly recommend him to anyone seeking a security expert who combines deep technical knowledge w/an unwavering commitment to excellence.
-##  - person: Ryan Plescia
-##    email: <a href="https://linkedin.com/in/rplescia" target="_blank">LinkedIn</a>
-##    phone: 
-##    role: Vice President of Product & Marketing @ DTiQ
-##    recommendation: | 
-##      -....... creativity & dedication left a lasting impression on me. ....proactive approach to problem-solving & his talent for working seamlessly across departments......ability to bring teams together & execute initiatives flawlessly highlights his value as a true team player.....staying ahead of industry trends & leveraging data-driven insights to inform strategy demonstrates his forward-thinking mindset & adaptability in a fast-changing environment......fosters an environment where innovative ideas thrive & inspires those around him to perform at their best.....dedication to both personal & professional growth....invaluable asset to any organization.
-##    
-##      - More on <a href= "https://linkedin.com/in/xchrisx/" target="_blank">LinkedIn</a>
-##  
+recommendations:
+  title: Recommendations
+  list:
+  - person: Andrew Folek
+    email: afolek@dtiq.com
+    phone: 
+    role: Senior Director of IT & Production @ DTiQ
+    recommendation: | 
+      -....... His eagerness to learn & openness to new challenges have been hallmarks of his career, enabling his transition from a security enthusiast to a true professional....... his technical expertise, problem-solving mindset & collaborative approach make him an invaluable asset to any organization.  I highly recommend him to anyone seeking a security expert who combines deep technical knowledge w/an unwavering commitment to excellence.
+  - person: Ryan Plescia
+    email: <a href="https://linkedin.com/in/rplescia" target="_blank">LinkedIn</a>
+    phone: 
+    role: Vice President of Product & Marketing @ DTiQ
+    recommendation: | 
+      -....... creativity & dedication left a lasting impression on me. ....proactive approach to problem-solving & his talent for working seamlessly across departments......ability to bring teams together & execute initiatives flawlessly highlights his value as a true team player.....staying ahead of industry trends & leveraging data-driven insights to inform strategy demonstrates his forward-thinking mindset & adaptability in a fast-changing environment......fosters an environment where innovative ideas thrive & inspires those around him to perform at their best.....dedication to both personal & professional growth....invaluable asset to any organization.
+    
+      - More on <a href= "https://linkedin.com/in/xchrisx/" target="_blank">LinkedIn</a>
+  
 skills:
     title: Skills & Software | Years of Experience
 
