@@ -111,16 +111,16 @@ experiences:
         time: March 2017 - March 2018
         company: DTiQ Technologies, Las Vegas
         details: |
-         - Created automation solutions to enhance & improve processes, **saving over 2,000 hours** in manual support hours the first year alone.
-         - Generated **over 30 knowledgebase articles** utilized by both technical & non-technical departments.
+         - Automated 2,000 hours of manual support task the first year alone; increasing yearly up to 10k/year
+         - Generated over 30 knowledgebase articles utilized by both technical & non-technical departments. Including the companies first "All-In-One-IP/HD Camera Guide"
          - **Reduced support department call times by 15%** on average following training classes I designed and led.
          - Resolved critical SSL cert issues across **15,000 devices** restoring company *PCI Compliance Status*
-      - role: Post Install Support Lead
-        time: December 2013 - March 2017
-        company: DTiQ Technologies, Las Vegas
-        details: |
-           - **Ground up installation** of software & cameras; juggling **5-30 a day**. 
-           - Integrated every POS Solution on DTT's integration list; but not limited to: **SubwayPOS**, **Aloha**, **Radiant RPOS**, **Micros3700**, **Micros E7**, **Micros 9700**, **Triport Printer Taps**, **VSI Capture Boxes**, **Positouch**    
+      #- role: Post Install Support Lead
+      #  time: December 2013 - March 2017
+      #  company: DTiQ Technologies, Las Vegas
+      #  details: |
+      #     - **Ground up installation** of software & cameras; juggling **5-30 a day**. 
+      #     - Integrated every POS Solution on DTT's integration list; but not limited to: **SubwayPOS**, **Aloha**, **Radiant RPOS**, **Micros3700**, **Micros E7**, **Micros 9700**, **Triport Printer Taps**, **VSI Capture Boxes**, **Positouch**    
       - role: CSR-I Residential Support
         time: August 2012 - August 2013
         company: Cox Communications, Las Vegas
