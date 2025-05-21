@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: chris@voidxedis.com
-    phone: (702) 720-6067
+    #phone: (702) 720-6067
     timezone: America/Los Angeles # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Full US Citizen
     website: https://xedis.net # Include the full website URL, inc. "http://" or "https://".
