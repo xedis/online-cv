@@ -150,12 +150,12 @@ projects:
 ##      - title: Dashy
 ##        link: "https://xedis.net"
 ##        tagline: "Self-hosted Dashboard to all my projects & project links. Running on my proxmox cluster in my server rack behind my desk." 
-##      - title: VoidXedis
-##        link: "https://voidxedis.com"
-##        tagline: "POD (print on demand) store for my Diffusion Assisted Art. Recently taken down for construction of a self-hosted solution."
-##      - title: Self-hosting infrastructure 
-##        link: "https://xedis.net"
-##        tagline: "Small 6 node cluster of mismatched hardware running Proxmox & a variety of containers/VMs. I use this to test open source software & learn new concepts, implementations of software/hardware."  
+      - title: VoidXedis
+        link: "https://voidxedis.com"
+        tagline: "POD (print on demand) store for my Diffusion Assisted Art. Recently taken down for construction of a self-hosted solution."
+      - title: Self-hosting infrastructure 
+        link: "https://xedis.net"
+        tagline: "Small 6 node cluster of mismatched hardware running Proxmox & a variety of containers/VMs. I use this to test open source software & learn new concepts, implementations of software/hardware."  
       - title: AI/ML Self-Driven Exploration
         link: "https://links.xedis.me"
         tagline: "Locally running custom LLMs (Large Language Models) & training custom embeddings for various models, including but not limited to: for Meta's Segment Anything (SAM) model which can identify company hardware tangled within a 'rat's nest' in a customer environment."
