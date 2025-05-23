@@ -115,12 +115,12 @@ experiences:
          - Generated over 30 knowledgebase articles utilized by both technical & non-technical departments. Including the companies first "All-In-One-IP/HD Camera Guide"
          - **Reduced support department call times by 15%** on average following training classes I designed and led.
          - Resolved critical SSL cert issues across **15,000 devices** restoring company *PCI Compliance Status*
-      #- role: Post Install Support Lead
-      #  time: December 2013 - March 2017
-      #  company: DTiQ Technologies, Las Vegas
-      #  details: |
-      #     - **Ground up installation** of software & cameras; juggling **5-30 a day**. 
-      #     - Integrated every POS Solution on DTT's integration list; but not limited to: **SubwayPOS**, **Aloha**, **Radiant RPOS**, **Micros3700**, **Micros E7**, **Micros 9700**, **Triport Printer Taps**, **VSI Capture Boxes**, **Positouch**    
+      - role: Post Install Support Lead
+        time: December 2013 - March 2017
+        company: DTiQ Technologies, Las Vegas
+        details: |
+           - **Ground up installation** of software & cameras; juggling **5-30 a day**. 
+           - Integrated every POS Solution on DTT's integration list; but not limited to: **SubwayPOS**, **Aloha**, **Radiant RPOS**, **Micros3700**, **Micros E7**, **Micros 9700**, **Triport Printer Taps**, **VSI Capture Boxes**, **Positouch**    
       - role: CSR-I Residential Support
         time: August 2012 - August 2013
         company: Cox Communications, Las Vegas
@@ -504,7 +504,6 @@ education:
     info:
       - degree: G.E.D. & College Courses
         university: College of Southern Nevada
-        time: 2002 - 2003
         details: |
           High school equivalency diploma. College courses as High School student.
 footer: >
