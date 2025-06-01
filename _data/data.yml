@@ -75,14 +75,13 @@ career-profile:
        - Tech is easy, there is just a lot of it. I've spent the better part of a decade in the trenches of IT & Security. 
        - I've been through acquisitions, migrations, & have been the go-to for the C-Suite for technical advice.
        - I've led teams, built out security programs, & have been the one to call when things go sideways.
-       - I'm a self-starter, always looking for the next challenge. I do not idle well yet hate repetition.
 extra-links:
     title: Linktree 
     url: https://links.xedis.me
 experiences:
     title: Experiences
     info:
-      - role: Production Security Architect
+      - role: Production Security Architect & Analyst
         time: December 2022 - August 2024
         company: DTiQ Technologies, Las Vegas
         details: |
@@ -150,12 +149,12 @@ projects:
 ##      - title: Dashy
 ##        link: "https://xedis.net"
 ##        tagline: "Self-hosted Dashboard to all my projects & project links. Running on my proxmox cluster in my server rack behind my desk." 
-      - title: VoidXedis
-        link: "https://voidxedis.com"
-        tagline: "POD (print on demand) store for my Diffusion Assisted Art. Recently taken down for construction of a self-hosted solution."
-      - title: Self-hosting infrastructure 
-        link: "https://xedis.net"
-        tagline: "Small 6 node cluster of mismatched hardware running Proxmox & a variety of containers/VMs. I use this to test open source software & learn new concepts, implementations of software/hardware."  
+##      - title: VoidXedis
+##        link: "https://voidxedis.com"
+##        tagline: "POD (print on demand) store for my Diffusion Assisted Art. Recently taken down for construction of a self-hosted solution."
+##      - title: Self-hosting infrastructure 
+##        link: "https://xedis.net"
+##        tagline: "Small 6 node cluster of mismatched hardware running Proxmox & a variety of containers/VMs. I use this to test open source software & learn new concepts, implementations of software/hardware."  
       - title: AI/ML Self-Driven Exploration
         link: "https://links.xedis.me"
         tagline: "Locally running custom LLMs (Large Language Models) & training custom embeddings for various models, including but not limited to: for Meta's Segment Anything (SAM) model which can identify company hardware tangled within a 'rat's nest' in a customer environment."
@@ -168,7 +167,7 @@ oss:
 ##  I contribute to a single open source project, but am constantly looking for opportunities to contribute to more.
     contributions:
       - title: SD.Next
-        link: "https://github.com/vladmandic/automatic"
+        link: "https://github.com/vladmandic/sdnext"
         tagline: |
          All-in-one for AI generative image/video generation. I contribute to the project by providing feedback, testing & provide some support on the discord server.
          Technologies: Torch/PyTorch, Tensorflow, Diffusers, Python, Gradio, JS, HTML, CSS, Docker to name a few. 
